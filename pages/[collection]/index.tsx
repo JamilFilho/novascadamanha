@@ -45,13 +45,18 @@ export async function getStaticPaths() {
     };
   }
 
-export default ({ posts }) =>
-    posts.map(({ title, collection, slug }) => (
+const CollectionPage = (props) => {
+  return(
     <ul>
-        <li>
-            <Link key={slug} href={`/${collection}/${slug}`}>
-            <a>{title}</a>
-            </Link>
+      {props.posts.map(post => (
+        <li key={post.id}>
+          <Link href={`/${post.collection}/${post.slug}`}>
+            {post.title}
+          </Link>
         </li>
-    </ul>
-  ));
+      ))}
+  </ul>
+  )
+}
+
+export default CollectionPage

@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from 'next/link'
 import Graphcms from '../utils/contentAPI'
 
 export async function getStaticProps() {
@@ -25,22 +25,33 @@ export async function getStaticProps() {
         }
       }
     `
-  );
+  )
+
+  if (!posts) {
+    return {
+      notFound: true,
+    }
+  }
 
   return {
     props: {
         posts,
-    },
-  };
+    }
+  }
 }
 
-export default ({ posts }) =>
-    posts.map(({ slug, title, collection }) => (
+const HomePage = (props) =>{
+  return(
     <ul>
-        <li>
-        <Link key={slug} href={`/${collection}/${slug}`}>
-            <a>{title}</a>
-        </Link>
-        </li>
+        {props.posts.map(post => (
+          <li key={post.id}>
+            <Link href={`/${post.collection}/${post.slug}`}>
+              {post.title}
+            </Link>
+          </li>
+        ))}
     </ul>
-  ));
+  )
+}
+
+export default HomePage
