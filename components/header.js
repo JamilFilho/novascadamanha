@@ -1,12 +1,19 @@
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function Header() {
   return (
-    <h2 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8">
+    <nav className="fixed w-full h-20 flex flex-row items-center justify-center bg-white shadow z-50">
       <Link href="/">
-        <a className="hover:underline">Novas de Cada Manhã</a>
+        <a>
+          <Image 
+            src="/assets/images/site-logo.png"
+            alt="Novas de Cada Manhã"
+            width={250}
+            height={37.9}
+          />
+        </a>
       </Link>
-      .
-    </h2>
+    </nav>
   )
 }

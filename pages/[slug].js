@@ -1,12 +1,11 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
-import Container from '../components/container'
 import PostBody from '../components/post-body'
+import Layout from '../components/layout'
 import Header from '../components/header'
 import PostHeader from '../components/post-header'
-import Layout from '../components/layout'
+import PostShare from '../components/sharer'
 import { getPostBySlug, getAllPosts } from '../lib/api'
-import PostTitle from '../components/post-title'
 import Head from 'next/head'
 import markdownToHtml from '../lib/markdownToHtml'
 
@@ -21,23 +20,25 @@ export default function Post({ post }) {
       <title>
         {post.title} | Novas de Cada Manhã
       </title>
+      
+      <script src="/assets/scripts/sharer.min.js"/>
     </Head>
+    <Header />
+    {router.isFallback ? (
+        <h1>Carregando...</h1>
+      ) : (
+    <>
+      <article>
+        <PostHeader title={post.title} excerpt={post.excerpt}/>
 
-    <Layout>
-      <Container>
-        <Header />
-        {router.isFallback ? (
-          <PostTitle>Carregando...</PostTitle>
-        ) : (
-          <>
-            <article className="mb-32">
-              <PostHeader title={post.title} author={post.author} excerpt={post.excerpt}/>
-              <PostBody content={post.content} />
-            </article>
-          </>
-        )}
-      </Container>
-    </Layout>
+        <Layout>
+          <PostBody content={post.content} author={post.author} />
+          <PostShare title={post.title} url={post.slug}></PostShare>
+        </Layout>
+
+      </article>
+    </>
+    )}
     </>
   )
 }

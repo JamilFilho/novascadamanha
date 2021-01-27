@@ -2,15 +2,18 @@ module.exports = {
   purge: ['./components/**/*.js', './pages/**/*.js'],
   theme: {
     extend: {
+      height: {
+        'header-desktop':'80vh',
+        'header-mobile':'70vh',
+        'post-header':'80vh'
+      },
       colors: {
-        'accent-1': '#FAFAFA',
-        'accent-2': '#EAEAEA',
-        'accent-7': '#333',
-        success: '#0070f3',
-        cyan: '#79FFE1',
+        'brand-background':'#282c35',
+        'brand-text':'#C8AA74',
+        'pilgrim':'#ff9a42'
       },
       spacing: {
-        28: '7rem',
+        40: '12rem'
       },
       letterSpacing: {
         tighter: '-.04em',
@@ -30,4 +33,7 @@ module.exports = {
       },
     },
   },
+  plugins: [
+    require('@tailwindcss/forms')
+  ],
 }

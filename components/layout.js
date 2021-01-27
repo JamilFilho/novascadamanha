@@ -3,9 +3,7 @@ import Footer from '../components/footer'
 export default function Layout({ children }) {
   return (
     <>
-      <div className="min-h-screen">
-        <main>{children}</main>
-      </div>
+      <main className="container mx-auto">{children}</main>
       <Footer />
     </>
   )

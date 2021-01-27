@@ -1,20 +1,12 @@
-import Avatar from '../components/avatar'
-import PostTitle from '../components/post-title'
-
-export default function PostHeader({ title, author, excerpt }) {
+export default function PostHeader({ title, excerpt }) {
   return (
     <>
-      <PostTitle>{title}</PostTitle>
-      <p>{excerpt}</p>
-      
-      <div className="hidden md:block md:mb-12">
-        <Avatar name={author.name} picture={author.picture} />
+    <header className="relative w-full h-post-header flex flex-col justify-center items-center bg-brand-background">
+      <div className="px-4 lg:w-2/4 flex flex-col justify-center items-center text-center">
+        <h1 className="font-serif text-4xl lg:text-6xl font-black text-brand-text">{title}</h1>
+        <p className="tex-xs lg:text-xl text-gray-50 leading-tight mt-10">{excerpt}</p>
       </div>
-      <div className="max-w-2xl mx-auto">
-        <div className="block md:hidden mb-6">
-          <Avatar name={author.name} picture={author.picture} />
-        </div>
-      </div>
+    </header>
     </>
   )
 }
