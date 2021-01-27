@@ -1,41 +1,25 @@
 {
-  "name": "novascadamanha",
-  "version": "0.1.0",
-  "description": "Site do projeto Novas de Cada Manhã",
-  "main": "index.js",
+  "name": "blog-starter",
+  "version": "1.0.0",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next",
     "build": "next build",
     "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Devocional/novascadamanha.git"
-  },
-  "keywords": [
-    "nextjs",
-    "blogging",
-    "blogger"
-  ],
-  "author": "Jamil Filho",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Devocional/novascadamanha/issues"
-  },
-  "homepage": "https://github.com/Devocional/novascadamanha#readme",
   "dependencies": {
-    "graphql-request": "^1.8.2",
-    "mongodb": "^3.6.3",
-    "next": "^10.0.5",
-    "next-auth": "^3.1.0",
+    "classnames": "2.2.6",
+    "date-fns": "2.16.1",
+    "gray-matter": "4.0.2",
+    "next": "latest",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "styled-components": "^5.2.1"
+    "remark": "13.0.0",
+    "remark-html": "13.0.1"
   },
   "devDependencies": {
-    "@types/node": "^12.12.21",
-    "@types/react": "^16.9.16",
-    "@types/react-dom": "^16.9.4",
-    "typescript": "4.0"
-  }
+    "autoprefixer": "^10.2.1",
+    "postcss": "^8.2.4",
+    "tailwindcss": "^2.0.2"
+  },
+  "license": "MIT"
 }
