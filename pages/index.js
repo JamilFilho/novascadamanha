@@ -5,6 +5,8 @@ import BannerAd from '../components/banner-ad'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
+import fs from 'fs'
+import {generateRss} from '../lib/feed.js'
 
 export default function Index({ allPosts }) {
   const heroPost = allPosts[0]
@@ -34,7 +36,11 @@ export async function getStaticProps() {
     'slug',
     'author',
     'excerpt',
+    'content'
   ])
+  
+  const rss = await generateRss(allPosts)
+  fs.writeFileSync('./public/feed.xml', rss)
 
   return {
     props: { allPosts },
