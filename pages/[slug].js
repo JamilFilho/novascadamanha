@@ -5,12 +5,12 @@ import Layout from '../components/layout'
 import Header from '../components/header'
 import PostHeader from '../components/post-header'
 import PostShare from '../components/sharer'
+import PostComments from '../components/comments'
 import { getPostBySlug, getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import markdownToHtml from '../lib/markdownToHtml'
 
 export default function Post({ post }) {
-  // const date =
   const router = useRouter()
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
@@ -51,6 +51,7 @@ export default function Post({ post }) {
         <Layout>
           <PostBody content={post.content} author={post.author} />
           <PostShare title={post.title} url={post.slug}></PostShare>
+          <PostComments slug={post.slug} />
         </Layout>
 
       </article>
