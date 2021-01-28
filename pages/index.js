@@ -39,7 +39,8 @@ export async function getStaticProps() {
     'slug',
     'author',
     'excerpt',
-    'content'
+    'content',
+    'ogImage'
   ])
   
   const rss = await generateRss(allPosts)
