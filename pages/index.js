@@ -6,7 +6,7 @@ import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import fs from 'fs'
 import {generateRss} from '../lib/feed.js'
-import Ads from '../../components/adsense'
+import Ads from '../components/adsense'
 
 export default function Index({ allPosts }) {
   const heroPost = allPosts[0]

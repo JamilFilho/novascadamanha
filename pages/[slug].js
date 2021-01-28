@@ -9,7 +9,7 @@ import PostComments from '../components/comments'
 import { getPostBySlug, getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import markdownToHtml from '../lib/markdownToHtml'
-import Ads from '../../components/adsense'
+import Ads from '../components/adsense'
 
 export default function Post({ post }) {
   const router = useRouter()
