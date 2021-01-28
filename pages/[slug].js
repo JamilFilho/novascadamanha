@@ -10,6 +10,7 @@ import Head from 'next/head'
 import markdownToHtml from '../lib/markdownToHtml'
 
 export default function Post({ post }) {
+  // const date =
   const router = useRouter()
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
@@ -22,7 +23,10 @@ export default function Post({ post }) {
       <meta name="title" content={`${post.title} | Novas de Cada Manhã `} />
       <meta name="description" content={post.excerpt} />
 
-      <meta property="og:type" content="website" />
+      <meta property="og:type" content="article" />
+      <meta property="article:author" content={`${post.author.name}`} />
+      <meta property="article:published_time" content={post.date}></meta>
+
       <meta property="og:url" content={`https://novasdecadamanha.com.br/${post.slug}`} />
       <meta property="og:title" content={`${post.title} | Novas de Cada Manhã `} />
       <meta property="og:description" content={post.excerpt} />
@@ -60,6 +64,7 @@ export async function getStaticProps({ params }) {
   const post = getPostBySlug(params.slug, [
     'title',
     'slug',
+    'date',
     'excerpt',
     'author',
     'ogImage',
