@@ -5,6 +5,8 @@ date: '2020-11-13'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/lembrar-de-nao-esquecer.png'
 ---
 
 Os estatutos e mandamentos do Senhor são, para aqueles que por Ele foram justificados, mananciais de águas, a fonte de onde brota a verdadeira alegria.

@@ -5,6 +5,8 @@ date: '2020-11-04'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/purificando-meus-caminhos.png'
 ---
 
 Como o jovem purificará seu caminho diante de um mundo onde os prazeres são tão exaltados, onde a vontade é adorada e a castidade e a pureza são rejeitadas?

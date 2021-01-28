@@ -5,6 +5,8 @@ date: '2021-01-19'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/sou-amigo-dos-que-te-temem.png'
 ---
 
 Diante da grandiosidade dos preceitos eternos, da profundidade de Sua graça, amor e misericórdia reveladas, o salmista reconhece que em resposta ao Senhor, ele deve cultivar amizades e relacionamentos que glorifiquem ao Nome de Deus.

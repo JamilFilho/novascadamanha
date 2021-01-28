@@ -5,6 +5,8 @@ date: '2020-11-05'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/nao-me-deixes-desviar.png'
 ---
 
 Reforçando o desejo de seu coração, expresso no oitavo versículo, de que obedeceria aos mandamentos do Senhor, o salmista declara que seu coração ainda permanece inclinado à obediência da Palavra.

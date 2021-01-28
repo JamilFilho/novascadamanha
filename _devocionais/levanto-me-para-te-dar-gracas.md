@@ -5,6 +5,8 @@ date: '2021-01-18'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/levanto-me-para-te-dar-gracas.png'
 ---
 
 O salmista reconhecendo a grandiosidade e a beleza dos mandamentos e estatutos, não apenas se mantém fiel ao Senhor diante das perseguições (v. 61), mas também se inclina em adoração e ações de graça a Deus por sua revelação.

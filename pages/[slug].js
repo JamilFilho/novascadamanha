@@ -18,8 +18,8 @@ export default function Post({ post }) {
     <>
     <Head>
       <title>
-        {post.title} | Novas de Cada Manhã
-      </title>
+        {post.title} | Novas de Cada Manhã </title>
+        <meta property="og:image" content={post.ogImage.url} />
       
       <script src="/assets/scripts/sharer.min.js"/>
     </Head>
@@ -49,6 +49,7 @@ export async function getStaticProps({ params }) {
     'slug',
     'excerpt',
     'author',
+    'ogImage',
     'content'
   ])
   const content = await markdownToHtml(post.content || '')

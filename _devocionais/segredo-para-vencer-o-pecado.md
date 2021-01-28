@@ -5,6 +5,8 @@ date: '2020-11-06'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/segredo-para-vencer-o-pecado.png'
 ---
 
 Não pecar contra Deus deve ser o anseio e a constante luta do cristão. Enquanto caminha por esta terra, seu coração está suscetível às armadilhas e laços do pecado. Como podemos então encontrar forças para vencer uma inclinação tão violenta e tão arraigada ao nosso coração?

@@ -5,6 +5,8 @@ date: '2020-11-25'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/desfalecido-pela-caminhada.png'
 ---
 
 Durante a caminhada haverá momentos em que a alma do crente irá se desfalecer, se angustiar terrivelmente e se curvar ao pó.

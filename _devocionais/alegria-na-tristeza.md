@@ -5,6 +5,8 @@ date: '2020-11-30'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/alegria-na-tristeza.png'
 ---
 
 Durante a caminhada o crente encontrará adversidades, lutas e provações. O mundo, claramente o rejeitará, afinal, sua presença e a bandeira que carrega lembra o pecador que há um Deus que reprova sua impiedade.

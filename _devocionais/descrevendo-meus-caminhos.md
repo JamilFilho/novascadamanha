@@ -5,6 +5,8 @@ date: '2020-11-26'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/descrevendo-meus-caminhos.png'
 ---
 
 Enquanto caminha neste mundo inóspito e hostil o peregrino pode confiar na certeza de que Seu Pai Eterno permanece atento à sua voz, ansioso por ouvi-lo contar sobre sua jornada. Deus não está alheio ao caminhar de Seus filhos, nem muito menos desinteressado em suas dores e angústias diárias.

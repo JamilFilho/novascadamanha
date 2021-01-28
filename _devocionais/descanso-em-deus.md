@@ -5,6 +5,8 @@ date: '2020-11-11'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/descanso-em-deus.png'
 ---
 
 Reflita por alguns instantes: quais têm sido suas prioridades, em quais tarefas seu coração têm preenchido seu coração? O salmista afirma que seu coração mais se alegra em seguir os mandamentos de Deus do que em alcançar as riquezas.

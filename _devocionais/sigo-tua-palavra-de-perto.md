@@ -5,6 +5,8 @@ date: '2021-01-25'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/sigo-tua-palavra.png'
 ---
 
 O salmista reconhece que em dado momento de sua vida, seus caminhos eram contrários à vontade Deus, se opunham aos Seus preceitos, no entanto, ao ser disciplinado por Ele seu coração então compreende qual o caminho a se seguir.

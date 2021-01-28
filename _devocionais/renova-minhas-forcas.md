@@ -5,6 +5,8 @@ date: '2020-12-28'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/renova-minhas-forcas.png'
 ---
 
 Enquanto caminha rumo à Pátria o peregrino estará, inevitavelmente, sujeito à aflições, perseguições e angústias. É um forasteiro, um estranho. Talvez a imagem mais precisa para descrever o crente e a igreja no mundo seja a utilizada por Paulo: um soldado.

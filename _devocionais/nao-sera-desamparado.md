@@ -5,6 +5,8 @@ date: '2020-11-03'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/nao-sera-desamparado.png'
 ---
 
 O salmista encerra o primeiro bloco de oito versículos reafirmando seu compromisso com a Palavra. 

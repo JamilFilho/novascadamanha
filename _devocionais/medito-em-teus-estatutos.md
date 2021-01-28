@@ -5,6 +5,8 @@ date: '2020-12-30'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/medito-em-teus-estatutos.png'
 ---
 
 O intelecto e a atenção do salmista se coloca em meditação, seu coração se inclina para aprender dos estatutos antigos do Senhor e para conhecer de Sua sabedoria. Tal como o proverbista escreve em Provérbios 8:22-31, o salmista reconhece os estatutos e a sabedoria do Senhor como a fonte de todas as coisas.

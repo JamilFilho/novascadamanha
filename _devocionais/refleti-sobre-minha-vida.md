@@ -5,6 +5,8 @@ date: '2021-01-13'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/refleti-sobre-minha-vida.png'
 ---
 
 Refletindo sobre sua própria vida o salmista reconhece que, diante da revelação dada por Deus em Sua palavra, não há melhor caminho a não ser seguir os preceitos eternos.

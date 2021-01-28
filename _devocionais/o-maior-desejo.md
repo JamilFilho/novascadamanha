@@ -5,6 +5,8 @@ date: '2020-10-29'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/o-maior-desejo.png'
 ---
 
 Em que você tem depositado seus desejos, quais são suas metas, as ideologias ou propósitos que ocupam a maior parcela de seu coração e mente? Será que, assim como o salmista, estamos desejando e ansiando pela direção da Palavra de Deus? Ou será que temos tirado o Senhor Jesus Cristo dos nossos planos?

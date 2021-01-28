@@ -5,6 +5,8 @@ date: '2020-11-12'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/obediencia-cotidiana.png'
 ---
 
 Deus não espera de nós uma postura leviana e descompromissada, Cristo nos chama não para molhar apenas os tornozelos no oceano da graça, Ele nos ordena que avancemos até que nossos pés não toquem mais o fundo.

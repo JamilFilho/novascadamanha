@@ -5,6 +5,8 @@ date: '2021-01-22'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/da-me-bom-senso.png'
 ---
 
 Revelando sua fé nos mandamentos e sua convicção na verdade revelada pelo Senhor Deus, o salmista novamente roga para que Ele lhe conceda conhecimento.

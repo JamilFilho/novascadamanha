@@ -5,6 +5,8 @@ date: '2020-12-15'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/anseio-por-obedecer.png'
 ---
 
 Encerrando o quinto bloco de versículos (33-40) o salmista declara, novamente, o desejo por obedecer aos mandamentos do Senhor.

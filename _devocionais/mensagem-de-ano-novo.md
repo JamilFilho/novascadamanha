@@ -5,6 +5,8 @@ date: '2021-01-01'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/mensagem-de-ano-novo.png'
 ---
 
 Embora a virada do ano não traga consigo nenhum efeito sobrenatural, sabemos que, de certa forma, nossa vida é regida por ciclos. Encerramos um ano e nos preparamos para iniciar outro.

@@ -5,6 +5,8 @@ date: '2021-01-05'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/seus-decretos-sao-minhas-cancoes.png'
 ---
 
 O salmista reconhece a importância da música como meio de transmitir os ensinos do Senhor e com  o coração cheio da Palavra, o salmista expressa sua alegria no Senhor cantando a palavra.

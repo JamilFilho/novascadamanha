@@ -5,6 +5,8 @@ date: '2021-01-07'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/lembrei-me-do-teu-nome.png'
 ---
 
 Após declarar que os estatutos eternos são sua canção ao Senhor, o salmista então expressa sua fidelidade e sua constante atenção aos mandamentos eternos.

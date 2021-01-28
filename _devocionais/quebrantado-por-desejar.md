@@ -5,6 +5,8 @@ date: '2020-11-18'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/quebrantad-por-desejar.png'
 ---
 
 Por não pertencer a este mundo e por caminhar em terras áridas rumo à sua verdadeira Pátria, o crente sabe que não há nada neste mundo que vale a pena depositar a plena atenção de seu coração.

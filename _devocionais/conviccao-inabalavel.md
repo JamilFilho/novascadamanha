@@ -5,6 +5,8 @@ date: '2020-10-30'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/conviccao-inabalavel.png'
 ---
 
 Como consequência do desejo ardente no coração do salmista em obedecer aos mandamentos ordenados pelo Senhor (vv. 4-5) e de permanecer em Sua Palavra, seu coração e mente não são confundidos diante das incertezas do mundo.

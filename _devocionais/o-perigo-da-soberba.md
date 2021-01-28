@@ -5,6 +5,8 @@ date: '2020-11-19'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/o-perigo-da-soberba.png'
 ---
 
 O homem soberbo é desprezível aos olhos do Senhor, a soberba torna o coração humano altivo a ponto deste viver e confiar apenas na força de seu próprio braço, desprezando ao Criador que lhe dá, diariamente, o fôlego de vida.

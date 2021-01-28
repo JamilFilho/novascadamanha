@@ -5,6 +5,8 @@ date: '2020-11-20'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/a-obediencia-remove-a-vergonha.png'
 ---
 
 O salmista avança em sua progressão de pensamento, no versículo anterior ele declara que os soberbos, aqueles que desprezam a Palavra do Senhor, serão asperamente repreendidos por Deus e, diante disto, o desejo de seu coração está em obedecer aos mandamentos.

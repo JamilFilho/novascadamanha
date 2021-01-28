@@ -5,6 +5,8 @@ date: '2020-12-02'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/escolho-a-verdade.png'
 ---
 
 Seguir o caminho da verdade é uma escolha consciente, racional e deve partir do desejo sincero do crente em viver um estilo de vida completamente na contramão do mundo.

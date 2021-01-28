@@ -5,6 +5,8 @@ date: '2021-01-04'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/furioso-com-os-perversos.png'
 ---
 
 Ciente dos maravilhosos tesouros contidos nas Escrituras e nos mandamentos do Senhor o salmista se indigna com a rejeição que os perversos têm aos preceitos eternos.

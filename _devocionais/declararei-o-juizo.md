@@ -5,6 +5,8 @@ date: '2020-11-10'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/declararei-o-juizo.png'
 ---
 
 Qual o propósito de aprender as Escrituras Sagradas e nelas meditar de dia e de noite? O salmista nos responde ao afirmar que ele declarará “... todos os juízos da tua boca”.

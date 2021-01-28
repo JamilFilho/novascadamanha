@@ -5,6 +5,8 @@ date: '2021-01-14'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/me-apressarei-em-obedecer.png'
 ---
 
 Reconhecendo os rumos de sua vida e o fim que aguarda toda alma (v. 59), o salmista então declara que se apressará em obedecer aos mandamentos do Senhor. Sua vida é como um vapor, sua existência como um sopro e sua história como um conto ligeiro.

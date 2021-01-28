@@ -5,6 +5,8 @@ date: '2020-12-18'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/continuarei-a-obedecer-a-sua-lei.png'
 ---
 
 Depois de clamar para que o Senhor lhe encha de Sua salvação e dos Seus estatutos e que não os retire de seu coração, o salmista então declara sua fidelidade aos mandamentos eternos, pois reconhece que somente neles há a verdadeira liberdade.

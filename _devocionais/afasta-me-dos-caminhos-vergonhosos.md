@@ -5,6 +5,8 @@ date: '2020-12-14'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/afasta-me-dos-caminhos-vergonhosos.png'
 ---
 
 Reconhecendo sua própria limitação, em se afastar da insensatez e da inconsistência, o salmista roga ao Senhor para que Ele lhe afaste de seus caminhos vergonhosos, em algumas versões, do opróbrio.

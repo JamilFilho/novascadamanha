@@ -5,6 +5,8 @@ date: '2020-12-22'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/amo-teus-mandamentos.png'
 ---
 
 Ao reconhecer a grandiosidade dos mandamentos de Deus e que, somente em obediência aos preceitos eternos, encontrará a verdadeira paz e alegria, o salmista então expressa o que há no mais profundo de seu coração.

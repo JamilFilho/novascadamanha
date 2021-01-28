@@ -5,6 +5,8 @@ date: '2021-01-15'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/nao-me-esqueco-da-tua-lei.png'
 ---
 
 Mesmo diante das perseguições e opressões do mundo e frente a homens perversos que procuram afligir sua alma, o salmista permanece firme em sua confiança e obediência à palavra.

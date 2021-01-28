@@ -5,6 +5,8 @@ date: '2020-12-16'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/senhor-da-me-do-teu-amor.png'
 ---
 
 Longe de ser uma oração egoísta e inconsequente, o pedido do salmista ao Senhor para que Ele lhe conceda de seu amor e salvação parte da compreensão de que necessita de Deus e somente sendo preenchido pelo amor e salvação do alto ele será capaz de falar justamente.

@@ -5,6 +5,8 @@ date: '2020-11-24'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/aconselhando-se-com-o-eterno.png'
 ---
 
 Enquanto os homens iníquos se assentam e tomam conselhos dos pecadores contra a vida dos servos do Senhor, os peregrinos neste mundo se assentam diante do Mestre e em Seus ensinos se aconselham.

@@ -5,6 +5,8 @@ date: '2020-12-29'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/nao-desvio-da-tua-lei.png'
 ---
 
 Por viver em obediência à Lei do Senhor e por seguir Seus preceitos o salmista se depara com homens que desprezam sua vida e que zombam de sua fé. Contudo, convicto de que a Lei do Senhor é perfeita claramente declara "não me desvio de tua lei".

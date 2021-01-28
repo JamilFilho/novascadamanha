@@ -5,6 +5,8 @@ date: '2021-01-21'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/coisas-boas-me-tens-feito.png'
 ---
 
 Após contemplar a manifestação do amor de Deus em todo o universo (v. 64) o salmista então olha para si e para sua vida e reconhece a graça e o favor divinos em seus caminhos.

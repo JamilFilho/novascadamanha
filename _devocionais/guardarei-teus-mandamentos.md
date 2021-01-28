@@ -5,6 +5,8 @@ date: '2020-12-07'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/guardarei-os-teus-mandamentos.png'
 ---
 
 Reconhecendo as bênçãos espirituais que estão disponíveis aos que obedecem às Escrituras Sagradas, o salmista novamente expressa seu intenso desejo por ela.

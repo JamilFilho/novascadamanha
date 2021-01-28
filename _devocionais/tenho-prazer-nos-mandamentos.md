@@ -5,6 +5,8 @@ date: '2020-12-09'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/tenho-prazer-nos-mandamentos.png'
 ---
 
 O coração do salmista se alegra em andar nos mandamentos do Senhor, neles ele encontra o refrigério e a paz para sua alma enquanto caminha neste mundo árido e tenebroso.

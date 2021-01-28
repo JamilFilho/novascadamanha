@@ -5,6 +5,8 @@ date: '2020-12-01'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/a-bussola.png'
 ---
 
 O crente sabe que, enquanto peregrina rumo à sua Pátria, seus pés estão suscetíveis à queda, seus passos correm o risco de se desviarem do caminho e, por este motivo, seu coração e alma clamam por auxílio do Senhor.

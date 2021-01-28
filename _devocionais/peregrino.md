@@ -5,6 +5,8 @@ date: '2020-11-17'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/peregrino.png'
 ---
 
 O crente sabe, instruído pelo Mestre, que está somente de passagem por este mundo, sua verdadeira Pátria não está neste planeta e sua vida não segue o modus operandi deste século.

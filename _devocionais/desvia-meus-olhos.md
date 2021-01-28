@@ -5,6 +5,8 @@ date: '2020-12-10'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/desvia-meus-olhos.png'
 ---
 
 Após rogar ao Senhor para que Ele lhe auxiliasse na obediência aos mandamentos, o salmista então clama para que seu coração se encha de entusiasmo pela Palavra e para que seus olhos sejam direcionados somente ao que realmente importa.

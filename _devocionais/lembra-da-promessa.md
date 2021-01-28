@@ -5,6 +5,8 @@ date: '2020-12-23'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/lembra-da-promessa.png'
 ---
 
 Diante das aflições da jornada e das adversidades do caminho, o salmista roga ao Senhor para que a promessa de salvação não seja por Ele esquecida, pois seu coração se alegra nela e se regozija na certeza de que toda dor terá um fim.

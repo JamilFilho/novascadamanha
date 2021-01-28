@@ -5,6 +5,8 @@ date: '2020-11-09'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/anseio-por-aprender.png'
 ---
 
 Diante da magnitude das Escrituras, das maravilhas nelas contidas e dos benefícios e bênçãos disponíveis aos que a amam, o salmista não encontra outra opção a não ser adorar ao Senhor que revelou cada palavra escrita.

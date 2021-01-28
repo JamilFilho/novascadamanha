@@ -5,6 +5,8 @@ date: '2020-11-27'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/falando-do-que-aprendeu.png'
 ---
 
 O conhecimento teológico e intelectual do crente deve ser direcionado para um único propósito: glorificar o nome de Deus e levar as almas até Cristo.

@@ -5,6 +5,8 @@ date: '2020-10-26'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/a-felicidade-plena.png'
 ---
 
 O salmista chama de felizes todos aqueles que trilham seus caminhos em retidão e cujos pés não se desviam da Lei do Senhor.

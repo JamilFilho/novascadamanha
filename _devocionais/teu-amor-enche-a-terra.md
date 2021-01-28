@@ -5,6 +5,8 @@ date: '2021-01-20'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/teu-amor-enche-a-terra.png'
 ---
 
 Reconhecendo que não há nem mesmo um milímetro deste Universo que não esteja debaixo do domínio soberano do Rei e que não reflita a Sua eterna glória e amor, o salmista então clama para que Ele lhe ensine Seus mandamentos.

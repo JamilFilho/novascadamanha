@@ -5,6 +5,8 @@ date: '2020-11-02'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/genuino-louvor.png'
 ---
 
 O que é louvor? Para muitos é impossível não associar louvor com a música no culto público. Contudo, procurando responder à pergunta, o salmista estabelece um paralelo simples, mas extremamente profundo, entre louvor e a Palavra.

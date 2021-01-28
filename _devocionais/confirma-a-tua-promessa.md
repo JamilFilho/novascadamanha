@@ -5,6 +5,8 @@ date: '2020-12-11'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/confirma-a-tua-promessa.png'
 ---
 
 O salmista inicia este bloco de versos (v. 33-40) rogando a orientação divina para que seus caminhos sejam guiados conforme as Escrituras.

@@ -5,6 +5,8 @@ date: '2020-12-04'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/aumentas-meu-entendimento.png'
 ---
 
 Ciente do que declarou no verso 30, "Escolhi o caminho da verdade; decidi viver de acordo com teus estatutos", e sabendo que seu entendimento e sabedoria provém das Escrituras, o salmista novamente declara seu desejo em buscar o conhecimento do alto.

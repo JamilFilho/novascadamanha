@@ -5,6 +5,8 @@ date: '2020-12-17'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/nao-retires-de-mim-a-palavra.png'
 ---
 
 O salmista ciente de que somente através da palavra  ele é capaz de se relacionar com o próximo de forma justa (v. 42) e de caminhar pelas veredas da vida, ele então clama para o Senhor não retire de seu coração a Palavra da Verdade.

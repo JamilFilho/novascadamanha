@@ -5,6 +5,8 @@ date: '2021-01-27'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/tenho-prazer-na-tua-lei.png'
 ---
 
 Uma vez reconhecendo que Deus só lhe tem feito bem (v. 68) o salmista, diante das perseguições e opressões deste mundo, mantém sua convicção firme e inabalável.

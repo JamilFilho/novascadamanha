@@ -5,6 +5,8 @@ date: '2020-12-03'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/nao-me-deixe-ser-envergonhado.png'
 ---
 
 O salmista declara que não apenas escolheu o caminho da verdade (v. 30), mas se apegou aos preceitos do Senhor. Ele sabe que somente na Palavra há a vida que tanto deseja e o refrigério para sua alma sedenta (v. 25).

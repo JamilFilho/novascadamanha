@@ -5,6 +5,8 @@ date: '2021-01-11'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/busco-o-teu-favor.png'
 ---
 
 Sabendo que Deus é sua herança (v. 57) e, por peregrinar em terra estrangeira, somente no Senhor sua alma encontra paz e satisfação plena, o salmista então roga para que o favor divino não lhe seja retirado, que a misericórdia não lhe seja negada.

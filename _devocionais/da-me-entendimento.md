@@ -5,6 +5,8 @@ date: '2020-12-08'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/da-me-entendimento.png'
 ---
 
 Após rogar ao Senhor para que Ele lhe ensine os Seus mandamentos, o salmista então clama para que seu entendimento seja iluminado pelo Santo Espírito.

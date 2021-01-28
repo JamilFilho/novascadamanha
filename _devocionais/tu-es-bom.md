@@ -5,6 +5,8 @@ date: '2021-01-26'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/tu-es-bom.png'
 ---
 
 Ao ser confrontado pela correção divina (v. 67) e reconhecer que necessita da palavra de Deus, o salmista então compreende que, em todas as circunstâncias, Deus tem sido bom para ele.

@@ -5,6 +5,8 @@ date: '2020-11-16'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/desvende-meus-olhos.png'
 ---
 
 Os dons e as dádivas concedidas pelo Pai não possuem outro propósito senão conduzir o crente à obediência e amor aos preceitos bíblicos.

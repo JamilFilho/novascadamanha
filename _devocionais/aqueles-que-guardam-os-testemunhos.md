@@ -5,6 +5,8 @@ date: '2020-10-27'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/aqueles-que-guardam-os-testemunhos.png'
 ---
 
 Felizes são aqueles que guardam os testemunhos divinos e buscam a face de Deus de todo o coração.

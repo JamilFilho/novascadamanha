@@ -5,6 +5,8 @@ date: '2020-10-28'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/obediencia-a-palavra.png'
 ---
 
 A obediência aos mandamentos do Senhor, para aqueles que foram salvos por Cristo, não é sinônimo de peso, fardo, mas sim uma demonstração de amor.

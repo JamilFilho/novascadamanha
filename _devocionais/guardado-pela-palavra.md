@@ -5,6 +5,8 @@ date: '2020-11-23'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/guardado-pela-palavra.png'
 ---
 
 Ao depositar seu coração no Senhor e em Sua Palavra o crente pode descansar e confiar que, indiferente do que o mundo planeja ou arma contra ele, sua vida e alma estão guardadas nas mãos do Eterno.

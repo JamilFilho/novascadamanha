@@ -5,6 +5,8 @@ date: '2021-01-08'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/senhor-tu-es-minha-heranca.png'
 ---
 
 O salmista reconhece que neste mundo nada do que possuí é, de fato, permanente. Seus bens, suas riquezas, suas capacidades, dons e talentos são passageiros e, assim como a vida, um dia acabarão.

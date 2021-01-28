@@ -5,6 +5,8 @@ date: '2020-12-21'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
+ogImage:
+  url: '/assets/thumbnails/falerei-dos-teus-preceitos.png'
 ---
 
 Com o coração cheio da Palavra e a vida orientada pelos preceitos eternos, o salmista então declara que, mesmo diante de poderosos da terra, ele não deixará de falar sobre a Lei do Senhor.
