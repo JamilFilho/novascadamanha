@@ -9,6 +9,7 @@ import PostComments from '../components/comments'
 import { getPostBySlug, getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import markdownToHtml from '../lib/markdownToHtml'
+import Meta from '../components/meta'
 import Ads from '../components/adsense'
 
 export default function Post({ post }) {
@@ -24,7 +25,7 @@ export default function Post({ post }) {
       <meta name="title" content={`${post.title} | Novas de Cada Manhã `} />
       <meta name="description" content={post.excerpt} />
 
-      <meta property="og:type" content="article" />
+      {/* <meta property="og:type" content="article" />
       <meta property="article:author" content={`${post.author.name}`} />
       <meta property="article:published_time" content={post.date}></meta>
 
@@ -37,7 +38,8 @@ export default function Post({ post }) {
       <meta property="twitter:url" content={`https://novasdecadamanha.com.br/${post.slug}`} />
       <meta property="twitter:title" content={`${post.title} | Novas de Cada Manhã `} />
       <meta property="twitter:description" content={post.excerpt} />
-      <meta property="twitter:image" content={post.ogImage.url} />
+      <meta property="twitter:image" content={post.ogImage.url} /> */}
+      <Meta post={post}/>
       <Ads />
     </Head>
     <Header />
