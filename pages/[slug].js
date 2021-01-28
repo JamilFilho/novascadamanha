@@ -9,6 +9,7 @@ import PostComments from '../components/comments'
 import { getPostBySlug, getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import markdownToHtml from '../lib/markdownToHtml'
+import Ads from '../../components/adsense'
 
 export default function Post({ post }) {
   const router = useRouter()
@@ -37,8 +38,7 @@ export default function Post({ post }) {
       <meta property="twitter:title" content={`${post.title} | Novas de Cada Manhã `} />
       <meta property="twitter:description" content={post.excerpt} />
       <meta property="twitter:image" content={post.ogImage.url} />
-      
-      <script src="/assets/scripts/sharer.min.js"/>
+      <Ads />
     </Head>
     <Header />
     {router.isFallback ? (

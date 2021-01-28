@@ -6,6 +6,7 @@ import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import fs from 'fs'
 import {generateRss} from '../lib/feed.js'
+import Ads from '../../components/adsense'
 
 export default function Index({ allPosts }) {
   const heroPost = allPosts[0]
@@ -16,6 +17,8 @@ export default function Index({ allPosts }) {
         <title>Novas de Cada Manhã | Devocionais diários para iniciar sua manhã.</title>
 
         <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+        
+        <Ads/>
       </Head>
 
       <Intro form="true"/>

@@ -7,6 +7,7 @@ import PostHeader from '../../components/post-header'
 import { getPageBySlug, getAllPages } from '../../lib/apiPage'
 import Head from 'next/head'
 import markdownToHtml from '../../lib/markdownToHtml'
+import Ads from '../../components/adsense'
 
 export default function Post({ post }) {
   const router = useRouter()
@@ -35,6 +36,7 @@ export default function Post({ post }) {
       <meta property="twitter:title" content={`${post.title} | Novas de Cada Manhã `} />
       <meta property="twitter:description" content={post.excerpt} />
       <meta property="twitter:image" content={post.ogImage.url} />
+      <Ads />
     </Head>
     <Header />
     {router.isFallback ? (
