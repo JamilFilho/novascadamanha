@@ -17,9 +17,22 @@ export default function Post({ post }) {
   return (
     <>
     <Head>
-      <title>
-        {post.title} | Novas de Cada Manhã </title>
-        <meta property="og:image" content={post.ogImage.url} />
+      <title>{post.title} | Novas de Cada Manhã </title>
+
+      <meta name="title" content={`${post.title} | Novas de Cada Manhã `} />
+      <meta name="description" content={post.excerpt} />
+
+      <meta property="og:type" content="website" />
+      <meta property="og:url" content={`https://novasdecadamanha.com.br/${post.slug}`} />
+      <meta property="og:title" content={`${post.title} | Novas de Cada Manhã `} />
+      <meta property="og:description" content={post.excerpt} />
+      <meta property="og:image" content={post.ogImage.url} />
+
+      <meta property="twitter:card" content="summary_large_image" />
+      <meta property="twitter:url" content={`https://novasdecadamanha.com.br/${post.slug}`} />
+      <meta property="twitter:title" content={`${post.title} | Novas de Cada Manhã `} />
+      <meta property="twitter:description" content={post.excerpt} />
+      <meta property="twitter:image" content={post.ogImage.url} />
       
       <script src="/assets/scripts/sharer.min.js"/>
     </Head>
