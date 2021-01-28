@@ -1,14 +1,12 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
-import PostBody from '../components/post-body'
-import Layout from '../components/layout'
-import Header from '../components/header'
-import PostHeader from '../components/post-header'
-import PostShare from '../components/sharer'
-import PostComments from '../components/comments'
-import { getPostBySlug, getAllPosts } from '../lib/api'
+import PostBody from '../../components/post-body'
+import Layout from '../../components/layout'
+import Header from '../../components/header'
+import PostHeader from '../../components/post-header'
+import { getPageBySlug, getAllPages } from '../../lib/apiPage'
 import Head from 'next/head'
-import markdownToHtml from '../lib/markdownToHtml'
+import markdownToHtml from '../../lib/markdownToHtml'
 
 export default function Post({ post }) {
   const router = useRouter()
@@ -37,8 +35,6 @@ export default function Post({ post }) {
       <meta property="twitter:title" content={`${post.title} | Novas de Cada Manhã `} />
       <meta property="twitter:description" content={post.excerpt} />
       <meta property="twitter:image" content={post.ogImage.url} />
-      
-      <script src="/assets/scripts/sharer.min.js"/>
     </Head>
     <Header />
     {router.isFallback ? (
@@ -50,8 +46,6 @@ export default function Post({ post }) {
 
         <Layout>
           <PostBody content={post.content} author={post.author} />
-          <PostShare title={post.title} url={post.slug}></PostShare>
-          <PostComments slug={post.slug} />
         </Layout>
 
       </article>
@@ -62,7 +56,7 @@ export default function Post({ post }) {
 }
 
 export async function getStaticProps({ params }) {
-  const post = getPostBySlug(params.slug, [
+  const post = getPageBySlug(params.slug, [
     'title',
     'slug',
     'date',
@@ -72,6 +66,7 @@ export async function getStaticProps({ params }) {
     'content'
   ])
   const content = await markdownToHtml(post.content || '')
+
   return {
     props: {
       post: {
@@ -83,7 +78,7 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  const posts = getAllPosts(['slug'])
+  const posts = getAllPages(['slug'])
 
   return {
     paths: posts.map((post) => {

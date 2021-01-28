@@ -1,7 +1,6 @@
 import MoreStories from '../components/more-stories'
 import HeroPost from '../components/hero-post'
 import Intro from '../components/intro'
-import BannerAd from '../components/banner-ad'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
@@ -15,10 +14,11 @@ export default function Index({ allPosts }) {
     <>
       <Head>
         <title>Novas de Cada Manhã | Devocionais diários para iniciar sua manhã.</title>
+
         <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
       </Head>
 
-      <Intro />
+      <Intro form="true"/>
         {heroPost && (
           <HeroPost title={heroPost.title} author={heroPost.author} slug={heroPost.slug} excerpt={heroPost.excerpt} />
         )}

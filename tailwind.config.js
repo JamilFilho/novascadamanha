@@ -5,7 +5,7 @@ module.exports = {
       height: {
         'header-desktop':'80vh',
         'header-mobile':'70vh',
-        'post-header':'80vh'
+        'post-header':'90vh'
       },
       colors: {
         'brand-background':'#282c35',
