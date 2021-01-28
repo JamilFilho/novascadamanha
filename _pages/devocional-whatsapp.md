@@ -6,7 +6,7 @@ author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
 ogImage:
-  url: '/assets/thumbnails/a-bussola.png'
+  url: '/assets/thumbnails/devocional-whatsapp.png'
 ---
 
 Deseja receber nossos devocionais diários diretamente em seu WhatsApp? Saiba como se cadastrar gratuitamente.
