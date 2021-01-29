@@ -3,8 +3,8 @@ module.exports = {
   theme: {
     extend: {
       height: {
-        'header-desktop':'80vh',
-        'header-mobile':'70vh',
+        'header-desktop':'100vh',
+        'header-mobile':'90vh',
         'post-header':'90vh'
       },
       colors: {
