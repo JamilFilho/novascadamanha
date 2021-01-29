@@ -8,7 +8,6 @@
     "postbuild": "next-sitemap"
   },
   "dependencies": {
-    "@sendgrid/mail": "^7.4.2",
     "@tailwindcss/forms": "^0.2.1",
     "classnames": "2.2.6",
     "date-fns": "2.16.1",
@@ -20,6 +19,7 @@
     "react-dom": "^17.0.1",
     "react-facebook": "^8.1.4",
     "react-icons": "^4.1.0",
+    "react-instagram-authless-feed": "jamesmoriarty/react-instagram-authless-feed#v1.1.1",
     "remark": "13.0.0",
     "remark-footnotes": "^3.0.0",
     "remark-html": "13.0.1"
