@@ -30,7 +30,6 @@ export default function Post({ post }) {
       <Ads />
 
       <script src="/assets/scripts/sharer.min.js"></script>
-      <script src="https://static.mailerlite.com/js/w/webforms.min.js?v28bf44f740701752bfc6767bc7e171d4" type="text/javascript" />
     </Head>
     <Header />
     {router.isFallback ? (

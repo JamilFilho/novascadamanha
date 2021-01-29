@@ -33,8 +33,6 @@ export default function Index({ allPosts }) {
         <link rel='manifest' href='/manifest.json' />
         <link rel='mask-icon' href='/icons/safari-pinned-tab.svg' color='#282c35' />
         <link rel='shortcut icon' href='/icons/favicon.ico' />
-
-        <script src="https://static.mailerlite.com/js/w/webforms.min.js?v28bf44f740701752bfc6767bc7e171d4" type="text/javascript" />
         <Ads/>
       </Head>
 
