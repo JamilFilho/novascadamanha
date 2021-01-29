@@ -36,13 +36,22 @@ export default function Index({ allPosts }) {
         <link rel='mask-icon' href='/icons/safari-pinned-tab.svg' color='#282c35' />
         <link rel='shortcut icon' href='/icons/favicon.ico' />
 
+        <meta property="og:url" content="https://novasdecadamanha.com.br" />
+        <meta property="og:title" content="Novas de Cada Manhã" />
+        <meta property="og:description" content="Devocionais diários para iniciar sua manhã." />
+        <meta property="og:image" content="/assets/images/novas-de-cada-manha-devocional-diario.png" />
+        
+        <meta name='twitter:creator' content='@CadaManha' />
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://novasdecadamanha.com.br" />
+        <meta property="twitter:title" content="Novas de Cada Manhã" />
+        <meta property="twitter:description" content="Devocionais diários para iniciar sua manhã." />
+        <meta property="twitter:image" content="/assets/images/novas-de-cada-manha-devocional-diario.png" />
+
         <script src="/assets/scripts/sharer.min.js"></script>
-        <script src="https://static.mailerlite.com/js/w/webforms.min.js?v28bf44f740701752bfc6767bc7e171d4" type="text/javascript" />
         <Ads/>
       </Head>
-
       <Header />
-
       <Intro form="true"/>
         {heroPost && (
           <HeroPost title={heroPost.title} author={heroPost.author} slug={heroPost.slug} excerpt={heroPost.excerpt} />
