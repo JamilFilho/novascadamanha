@@ -24,9 +24,12 @@ export default function Post({ post }) {
 
       <meta name="title" content={`${post.title} | Novas de Cada Manhã `} />
       <meta name="description" content={post.excerpt} />
+      
       <Meta post={post}/>
       <Ads />
+
       <script src="/assets/scripts/sharer.min.js"></script>
+      <script src="https://static.mailerlite.com/js/w/webforms.min.js?v28bf44f740701752bfc6767bc7e171d4" type="text/javascript" />
     </Head>
     <Header />
     {router.isFallback ? (
