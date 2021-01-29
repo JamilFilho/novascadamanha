@@ -1,7 +1,7 @@
 ---
 title: 'Peregrino'
 excerpt: '“Sou peregrino na terra; não escondas de mim os teus mandamentos” – Salmos 119:19'
-date: '2020-11-17'
+date: '2020-11-17T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

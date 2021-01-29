@@ -1,7 +1,7 @@
 ---
 title: 'Amo teus mandamentos'
 excerpt: '"Como tenho prazer em teus mandamentos! Como eu os amo! Celebro teus mandamentos, que amo, e em teus decretos medito." (Salmo 119.47, 48)'
-date: '2020-12-22'
+date: '2020-12-22T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

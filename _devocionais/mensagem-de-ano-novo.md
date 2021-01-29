@@ -1,7 +1,7 @@
 ---
 title: 'Mensagem de Ano Novo'
 excerpt: '"Entrega o teu caminho ao Senhor; confia nele, e ele o fará" (Salmo 37:5)'
-date: '2021-01-01'
+date: '2021-01-01T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

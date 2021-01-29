@@ -1,7 +1,7 @@
 ---
 title: 'Teu amor enche a terra'
 excerpt: '"Ó Senhor, o teu amor enche a terra; ensina-me teus decretos" (Salmo 119.64)'
-date: '2021-01-20'
+date: '2021-01-20T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

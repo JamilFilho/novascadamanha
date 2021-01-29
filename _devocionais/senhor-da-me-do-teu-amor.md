@@ -1,7 +1,7 @@
 ---
 title: 'Senhor, dá-me o teu amor'
 excerpt: '"Senhor, dá-me o teu amor, a salvação que me prometeste. Então poderei responder aos que me insultam, pois confio em tua palavra." (Salmo 119.41, 42)'
-date: '2020-12-16'
+date: '2020-12-16T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

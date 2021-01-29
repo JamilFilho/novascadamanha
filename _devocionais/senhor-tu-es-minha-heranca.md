@@ -1,7 +1,7 @@
 ---
 title: 'Senhor, tu és minha herança'
 excerpt: '"Senhor, tu és minha herança; prometo obedecer às tuas palavras!" (Salmo 119.57)'
-date: '2021-01-08'
+date: '2021-01-08T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

@@ -1,7 +1,7 @@
 ---
 title: 'Segredo para vencer o pecado'
 excerpt: '“Escondi a tua palavra no meu coração, para eu não pecar contra ti” – Salmo 119.11'
-date: '2020-11-06'
+date: '2020-11-06T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

@@ -1,7 +1,7 @@
 ---
 title: 'Não será desamparado'
 excerpt: '“Observarei os teus estatutos; não me desampares totalmente” – Salmos 119:8'
-date: '2020-11-03'
+date: '2020-11-03T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

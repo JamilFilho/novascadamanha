@@ -1,7 +1,7 @@
 ---
 title: 'Alegria na tristeza'
 excerpt: '“A minha alma consome-se de tristeza; fortalece-me segundo a tua palavra” – Salmo 119.28'
-date: '2020-11-30'
+date: '2020-11-30T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

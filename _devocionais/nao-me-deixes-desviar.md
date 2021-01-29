@@ -1,7 +1,7 @@
 ---
 title: 'Não me deixes desviar'
 excerpt: '“De todo o meu coração te busquei; não me deixes desviar dos teus mandamentos” – Salmos 119:10'
-date: '2020-11-05'
+date: '2020-11-05T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

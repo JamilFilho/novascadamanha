@@ -1,7 +1,7 @@
 ---
 title: 'Medito em teus estatutos'
 excerpt: '"Medito em teus estatutos tão antigos; ó Senhor, eles me consolam!" (Salmo 119.52)'
-date: '2020-12-30'
+date: '2020-12-30T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

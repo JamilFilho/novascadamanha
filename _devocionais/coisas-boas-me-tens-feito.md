@@ -1,7 +1,7 @@
 ---
 title: 'Coisas boas me tens feito'
 excerpt: '"Muitas coisas boas me tens feito, Senhor, como prometeste" (Salmo 119:65)'
-date: '2021-01-21'
+date: '2021-01-21T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

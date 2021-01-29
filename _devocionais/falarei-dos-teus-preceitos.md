@@ -1,7 +1,7 @@
 ---
 title: 'Falarei dos teus preceitos'
 excerpt: '"Falarei de teus preceitos a reis, e não me envergonharei" (Salmo 119.46)'
-date: '2020-12-21'
+date: '2020-12-21T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

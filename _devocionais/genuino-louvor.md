@@ -1,7 +1,7 @@
 ---
 title: 'Genuíno Louvor'
 excerpt: '“Louvar-te-ei com retidão de coração quando tiver aprendido os teus justos juízos” – Salmos 119.7'
-date: '2020-11-02'
+date: '2020-11-02T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

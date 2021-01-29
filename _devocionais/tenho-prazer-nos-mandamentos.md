@@ -1,7 +1,7 @@
 ---
 title: 'Tenho prazer nos mandamentos'
 excerpt: '"Faze-me andar em teus mandamentos, pois neles tenho prazer" (Salmo 119.35)'
-date: '2020-12-09'
+date: '2020-12-09T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

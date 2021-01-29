@@ -1,7 +1,7 @@
 ---
 title: 'Refleti sobre minha vida'
 excerpt: '"Refleti sobre o rumo de minha vida e resolvi seguir teus preceitos." (Salmo 119.59)'
-date: '2021-01-13'
+date: '2021-01-13T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

@@ -1,7 +1,7 @@
 ---
 title: 'Afasta-me dos caminhos vergonhosos'
 excerpt: '"Afasta-me de meus caminhos vergonhosos, pois teus estatutos são bons" (Salmo 119.39)'
-date: '2020-12-14'
+date: '2020-12-14T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

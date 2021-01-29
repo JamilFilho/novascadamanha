@@ -1,7 +1,7 @@
 ---
 title: 'Escolho a verdade'
 excerpt: '“Escolhi o caminho da verdade; propus-me seguir os teus juízos” – Salmo 119.30'
-date: '2020-12-02'
+date: '2020-12-02T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

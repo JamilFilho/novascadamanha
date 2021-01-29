@@ -1,7 +1,7 @@
 ---
 title: 'Dá-me bom senso'
 excerpt: '"Ensina-me bom senso e dá-me conhecimento, pois creio em teus mandamentos" (Salmos 119.66)'
-date: '2021-01-22'
+date: '2021-01-22T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

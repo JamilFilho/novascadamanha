@@ -1,7 +1,7 @@
 ---
 title: 'Sigo tua palavra de perto'
 excerpt: '"Antes de me disciplinares, eu vivia desviado; agora, porém, sigo tua palavra de perto" (Salmo 119.67)'
-date: '2021-01-25'
+date: '2021-01-25T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

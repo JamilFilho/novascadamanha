@@ -1,7 +1,7 @@
 ---
 title: 'Não retires de mim a palavra'
 excerpt: '"Não retires de mim a palavra da verdade, pois teus estatutos são minha esperança." (Salmo 119.43)'
-date: '2020-12-17'
+date: '2020-12-17T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

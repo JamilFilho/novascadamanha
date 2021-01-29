@@ -1,7 +1,7 @@
 ---
 title: 'Renova minhas forças'
 excerpt: '"Tua promessa renova minhas forças; ela me consola em minha aflição" (Salmo 119.50)'
-date: '2020-12-28'
+date: '2020-12-28T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

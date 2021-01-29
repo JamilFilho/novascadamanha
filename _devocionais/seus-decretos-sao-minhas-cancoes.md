@@ -1,7 +1,7 @@
 ---
 title: 'Teus decretos são minhas canções'
 excerpt: '"Teus decretos são o tema de minhas canções, na casa onde tenho vivido" (Salmo 119.54)'
-date: '2021-01-05'
+date: '2021-01-05T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

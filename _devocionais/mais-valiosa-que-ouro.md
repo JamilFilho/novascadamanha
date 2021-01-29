@@ -1,7 +1,7 @@
 ---
 title: 'Mais valiosa que ouro'
 excerpt: '"Tua lei é mais valiosa para mim que milhares de peças de ouro e de prata" (Salmo 119.72)'
-date: '2021-01-29'
+date: '2021-01-29T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

@@ -1,7 +1,7 @@
 ---
 title: 'Não me esqueço da tua lei'
 excerpt: '"Os perversos tentam me arrastar, mas não me esquecerei de tua lei" (Salmo 119.61)'
-date: '2021-01-15'
+date: '2021-01-15T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

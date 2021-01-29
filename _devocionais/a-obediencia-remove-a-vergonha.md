@@ -1,7 +1,7 @@
 ---
 title: 'A obediência remove a vergonha'
 excerpt: '“Tira de sobre mim o opróbrio e o desprezo, pois guardei os teus testemunhos” – Salmos 119.22'
-date: '2020-11-20'
+date: '2020-11-20T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

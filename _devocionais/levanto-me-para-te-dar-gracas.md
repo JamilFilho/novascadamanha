@@ -1,7 +1,7 @@
 ---
 title: 'Levanto-me para te dar graças'
 excerpt: '"Levanto-me à meia-noite para te dar graças por teus justos estatutos" (Salmos 119.62)'
-date: '2021-01-18'
+date: '2021-01-18T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

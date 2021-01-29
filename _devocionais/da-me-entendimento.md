@@ -1,7 +1,7 @@
 ---
 title: 'Dá-me entendimento'
 excerpt: '"Dá-me entendimento e obedecerei à tua lei; de todo o coração a porei em prática" (Salmo 119.34)'
-date: '2020-12-08'
+date: '2020-12-08T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

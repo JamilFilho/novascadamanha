@@ -1,7 +1,7 @@
 ---
 title: 'Lembrei-me do teu nome'
 excerpt: '"Lembrei-me do teu nome, ó Senhor, de noite, e observei a tua lei. Isto fiz eu, porque guardei os teus mandamentos" (Salmo 119.55,56)'
-date: '2021-01-07'
+date: '2021-01-07T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

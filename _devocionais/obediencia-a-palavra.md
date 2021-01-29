@@ -1,7 +1,7 @@
 ---
 title: 'Obediência à palavra'
 excerpt: '“Tu ordenaste os teus mandamentos, para que diligentemente os observássemos” – Salmos 119.4'
-date: '2020-10-28'
+date: '2020-10-28T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

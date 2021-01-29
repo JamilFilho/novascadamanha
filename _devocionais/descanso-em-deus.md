@@ -1,7 +1,7 @@
 ---
 title: 'Descanso em Deus'
 excerpt: '“Folgo mais com o caminho dos teus testemunhos do que com todas as riquezas” – Salmo 119.14'
-date: '2020-11-11'
+date: '2020-11-11T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

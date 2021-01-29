@@ -1,7 +1,7 @@
 ---
 title: 'Me apressarei em obedecer'
 excerpt: '"Eu me apressarei e, sem demora, obedecerei a teus mandamentos" (Salmo 119.60)'
-date: '2021-01-14'
+date: '2021-01-14T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

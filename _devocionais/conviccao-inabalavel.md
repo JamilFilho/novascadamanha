@@ -1,7 +1,7 @@
 ---
 title: 'Convicção inabalável'
 excerpt: '“Então, não ficaria confundido, atentando eu para todos os teus mandamentos” – Salmos 119.6'
-date: '2020-10-30'
+date: '2020-10-30T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

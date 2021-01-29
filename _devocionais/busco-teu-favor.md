@@ -1,7 +1,7 @@
 ---
 title: 'Busco teu favor'
 excerpt: '"Busco teu favor de todo o coração; tem misericórdia de mim, como prometeste" (Salmo 119:58)'
-date: '2021-01-11'
+date: '2021-01-11T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

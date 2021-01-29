@@ -1,7 +1,7 @@
 ---
 title: 'Tenho prazer na tua lei'
 excerpt: '"Os arrogantes mentem a meu respeito, mas eu obedeço às tuas ordens de todo o coração. O coração deles é tolo e insensível, mas eu tenho prazer em tua lei" (Salmo 119,69,70)'
-date: '2021-01-27'
+date: '2021-01-27T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

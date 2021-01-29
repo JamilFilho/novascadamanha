@@ -1,7 +1,7 @@
 ---
 title: 'Declararei o juízo'
 excerpt: '“Com os meus lábios declarei todos os juízos da tua boca” – Salmo 119.13'
-date: '2020-11-10'
+date: '2020-11-10T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

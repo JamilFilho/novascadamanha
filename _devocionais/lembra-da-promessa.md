@@ -1,7 +1,7 @@
 ---
 title: 'Lembra da promessa'
 excerpt: '"Lembra-te da promessa que fizeste a este teu servo; ela é minha esperança" (Salmo 119.49)'
-date: '2020-12-23'
+date: '2020-12-23T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

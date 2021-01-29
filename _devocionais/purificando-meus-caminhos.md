@@ -1,7 +1,7 @@
 ---
 title: 'Purificando meus caminhos'
 excerpt: '“Como purificará o jovem o seu caminho? Observando-o conforme a tua palavra” – Salmos 119:9'
-date: '2020-11-04'
+date: '2020-11-04T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

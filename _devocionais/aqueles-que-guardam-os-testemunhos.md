@@ -1,7 +1,7 @@
 ---
 title: 'Aqueles que guardam os testemunhos'
 excerpt: '“Bem-aventurados os que guardam os seus testemunhos e o buscam de todo o coração. E não praticam iniquidade, mas andam em seus caminhos”  – Salmos 119.2-3'
-date: '2020-10-27'
+date: '2020-10-27T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

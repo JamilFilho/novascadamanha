@@ -1,7 +1,7 @@
 ---
 title: 'Aconselhando-se com o Eterno'
 excerpt: '“Também os teus testemunhos são o meu prazer e os meus conselheiros” – Salmo 119.24'
-date: '2020-11-24'
+date: '2020-11-24T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

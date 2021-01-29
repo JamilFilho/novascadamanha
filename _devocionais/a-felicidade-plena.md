@@ -1,7 +1,7 @@
 ---
 title: 'A felicidade plena'
 excerpt: '“Bem-aventurados os retos em seus caminhos, que andam na lei do Senhor” – Salmos 119.1'
-date: '2020-10-26'
+date: '2020-10-26T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

@@ -1,7 +1,7 @@
 ---
 title: 'Aumentas meu entendimento'
 excerpt: '"Buscarei teus mandamentos, pois tu aumentas meu entendimento" Salmo 119.32'
-date: '2020-12-04'
+date: '2020-12-04T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

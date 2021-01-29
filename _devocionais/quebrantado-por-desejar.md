@@ -1,7 +1,7 @@
 ---
 title: 'Quebrantado por desejar'
 excerpt: '“A minha alma está quebrantada de desejar os teus juízos em todo o tempo” – Salmos 119.20'
-date: '2020-11-18'
+date: '2020-11-18T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

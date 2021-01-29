@@ -1,7 +1,7 @@
 ---
 title: 'Tú és bom'
 excerpt: '"Tu és bom e fazes somente o bem; ensina-me teus decretos" (Salmos 119.68)'
-date: '2021-01-26'
+date: '2021-01-26T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

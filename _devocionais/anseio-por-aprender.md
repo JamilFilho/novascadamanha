@@ -1,7 +1,7 @@
 ---
 title: 'Anseio por aprender'
 excerpt: '“Bendito és tu, ó Senhor! Ensina-me os teus estatutos” – Salmo 119.12'
-date: '2020-11-09'
+date: '2020-11-09T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

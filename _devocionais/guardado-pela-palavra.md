@@ -1,7 +1,7 @@
 ---
 title: 'Guardado pela Palavra'
 excerpt: '“Enquanto os príncipes se conluiavam e falavam contra mim, o teu servo meditava nos teus estatutos” – Salmo 119.23'
-date: '2020-11-23'
+date: '2020-11-23T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

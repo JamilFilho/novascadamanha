@@ -1,7 +1,7 @@
 ---
 title: 'Desvende meus olhos'
 excerpt: '“Faze bem ao teu servo, para que viva e observe a tua palavra. Desvenda os meus olhos, para que veja as maravilhas da tua lei” – Salmo 119.17-18'
-date: '2020-11-16'
+date: '2020-11-16T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

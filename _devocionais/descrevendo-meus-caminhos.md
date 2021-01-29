@@ -1,7 +1,7 @@
 ---
 title: 'Descrevendo meus caminhos'
 excerpt: '“Meus caminhos te descrevi, e tu me ouviste; ensina-me os teus estatutos” – Salmo 119.26'
-date: '2020-11-26'
+date: '2020-11-26T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

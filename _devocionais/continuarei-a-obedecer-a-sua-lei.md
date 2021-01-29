@@ -1,7 +1,7 @@
 ---
 title: 'Continuarei a obedecer a Sua Lei'
 excerpt: '"Continuarei a obedecer à tua lei para todo o sempre. Andarei em liberdade, pois me dediquei às tuas ordens." (Salmo 119.44, 45)'
-date: '2020-12-18'
+date: '2020-12-18T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

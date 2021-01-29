@@ -1,7 +1,7 @@
 ---
 title: 'O maior desejo'
 excerpt: '“Tomara que os meus caminhos sejam dirigidos de maneira a poder eu observar os teus estatutos” – Salmos 119.5'
-date: '2020-10-29'
+date: '2020-10-29T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

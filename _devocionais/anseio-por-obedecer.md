@@ -1,7 +1,7 @@
 ---
 title: 'Anseio por obedecer'
 excerpt: '"Anseio por obedecer às tuas ordens; restaura minha vida por tua justiça" (Salmos 119.40)'
-date: '2020-12-15'
+date: '2020-12-15T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

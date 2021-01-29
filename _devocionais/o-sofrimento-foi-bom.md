@@ -1,7 +1,7 @@
 ---
 title: 'O sofrimento foi bom'
 excerpt: '"O sofrimento foi bom para mim, pois me ensinou a dar atenção a teus decretos." (Salmo 119.71)'
-date: '2021-01-28'
+date: '2021-01-28T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

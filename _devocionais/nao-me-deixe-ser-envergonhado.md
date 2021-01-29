@@ -1,7 +1,7 @@
 ---
 title: 'Não me deixe ser envergonhado'
 excerpt: '"Apego-me a teus preceitos; Senhor, não permitas que eu seja envergonhado!" Salmo 119.31'
-date: '2020-12-03'
+date: '2020-12-03T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

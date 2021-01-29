@@ -1,7 +1,7 @@
 ---
 title: 'Falando do que aprendeu'
 excerpt: '“Faze-me entender o caminho dos teus preceitos; assim, falarei das tuas maravilhas” – Salmo 119.27'
-date: '2020-11-27'
+date: '2020-11-27T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

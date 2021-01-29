@@ -1,7 +1,7 @@
 ---
 title: 'Guardarei teus mandamentos'
 excerpt: '"Ensina-me teus decretos, ó Senhor, e eu os guardarei até o fim" (Salmo 119.33)'
-date: '2020-12-07'
+date: '2020-12-07T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

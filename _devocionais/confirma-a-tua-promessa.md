@@ -1,7 +1,7 @@
 ---
 title: 'Confirma a tua promessa'
 excerpt: '"Confirma a teu servo a tua promessa, que fizeste aos que te temem" (Salmo 119.38)'
-date: '2020-12-11'
+date: '2020-12-11T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

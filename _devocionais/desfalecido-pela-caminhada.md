@@ -1,7 +1,7 @@
 ---
 title: 'Desfalecido pela caminhada'
 excerpt: '“A minha alma está pegada ao pó; vivifica-me segundo a tua palavra” – Salmo 119.25'
-date: '2020-11-25'
+date: '2020-11-25T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

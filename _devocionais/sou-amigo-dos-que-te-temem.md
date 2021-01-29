@@ -1,7 +1,7 @@
 ---
 title: 'Sou amigo dos que te temem'
 excerpt: '"Sou amigo de todos que te temem, dos que obedecem às tuas ordens" (Salmos 119:63)'
-date: '2021-01-19'
+date: '2021-01-19T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

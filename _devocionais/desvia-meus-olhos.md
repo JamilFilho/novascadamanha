@@ -1,7 +1,7 @@
 ---
 title: 'Desvia meus olhos'
 excerpt: '"Dá-me entusiasmo por teus preceitos, e não pela ganância! Desvia meus olhos de coisas inúteis e restaura-me por meio de tua palavra" (Salmo 119.36,37)'
-date: '2020-12-10'
+date: '2020-12-10T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

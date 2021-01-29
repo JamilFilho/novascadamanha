@@ -1,7 +1,7 @@
 ---
 title: 'Não desvio da tua lei'
 excerpt: '"O tempo todo os orgulhosos me desprezam, mas eu não me desvio de tua lei" (Salmo 119.51)'
-date: '2020-12-29'
+date: '2020-12-29T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

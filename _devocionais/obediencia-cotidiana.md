@@ -1,7 +1,7 @@
 ---
 title: 'Obediência cotidiana'
 excerpt: '“Em teus preceitos meditarei e olharei para os teus caminhos” – Salmo 119.15'
-date: '2020-11-12'
+date: '2020-11-12T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

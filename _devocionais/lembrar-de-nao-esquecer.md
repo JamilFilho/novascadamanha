@@ -1,7 +1,7 @@
 ---
 title: 'Lembrar de não esquecer'
 excerpt: '“Alegrar-me-ei nos teus estatutos; não me esquecerei da tua palavra” – Salmo 119.16'
-date: '2020-11-13'
+date: '2020-11-13T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

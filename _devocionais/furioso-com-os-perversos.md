@@ -1,7 +1,7 @@
 ---
 title: 'Furioso com os perversos'
 excerpt: '"Fico furioso com os perversos, pois eles rejeitam tua lei" (Salmos 119.53)'
-date: '2021-01-04'
+date: '2021-01-04T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'

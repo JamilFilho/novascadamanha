@@ -1,7 +1,7 @@
 ---
 title: 'O perigo da soberba'
 excerpt: '“Tu repreendeste asperamente os soberbos, amaldiçoados, que se desviam dos teus mandamentos” – Salmos 119.21'
-date: '2020-11-19'
+date: '2020-11-19T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
