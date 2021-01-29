@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 export default function Footer() {
   return (
-    <footer className="mt-20 p-12 flex items-center justify-center bg-brand-background">
+    <footer className="p-12 flex items-center justify-center bg-brand-background">
       <Link href="/">
         <a>
           <Image 
