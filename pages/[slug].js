@@ -41,7 +41,9 @@ export default function Post({ post }) {
 
         <Layout>
           <PostBody content={post.content} author={post.author} />
-          <PostShare title={post.title} url={post.slug}></PostShare>
+          <div className="w-10/12 lg:max-w-3xl mx-auto">
+            <PostShare title={post.title} url={post.slug}></PostShare>
+          </div>
           <PostComments slug={post.slug} />
         </Layout>
 

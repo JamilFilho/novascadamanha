@@ -1,8 +1,9 @@
 import Link from 'next/link'
+import PostShare from '../components/sharer'
 
 export default function HeroPost({ title, excerpt, slug }) {
   return (
-    <section className="pt-40 pb-32 lg:pb-40 flex justify-center bg-gray-50">
+    <section className="pt-40 pb-32 lg:pb-30 flex justify-center bg-gray-50">
       <div className="w-4/5 lg:w-3/5 mt-12">
         <div>
           <span className="rounded px-4 py-2 text-xs text-gray-100 font-bold uppercase bg-brand-background">Devocional de hoje</span>
@@ -14,6 +15,9 @@ export default function HeroPost({ title, excerpt, slug }) {
         </div>
         <div>
           <p className="text-base lg:text-xl leading-tight">{excerpt}</p>
+        </div>
+        <div className="w-full mt-12">
+          <PostShare title={title} url={slug} />
         </div>
       </div>
     </section>

@@ -6,6 +6,7 @@ import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import fs from 'fs'
 import {generateRss} from '../lib/feed.js'
+import Header from '../components/header'
 import Ads from '../components/adsense'
 
 export default function Index({ allPosts }) {
@@ -35,9 +36,12 @@ export default function Index({ allPosts }) {
         <link rel='mask-icon' href='/icons/safari-pinned-tab.svg' color='#282c35' />
         <link rel='shortcut icon' href='/icons/favicon.ico' />
 
+        <script src="/assets/scripts/sharer.min.js"></script>
         <script src="https://static.mailerlite.com/js/w/webforms.min.js?v28bf44f740701752bfc6767bc7e171d4" type="text/javascript" />
         <Ads/>
       </Head>
+
+      <Header />
 
       <Intro form="true"/>
         {heroPost && (
