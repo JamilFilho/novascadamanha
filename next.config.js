@@ -18,7 +18,7 @@ module.exports = withPWA({
       },
       {
         source: '/confissao-de-fe',
-        destination: '/editorial/confissao-de-fe',
+        destination: '/editorial/sobre',
         permanent: true,
       },
     ]
