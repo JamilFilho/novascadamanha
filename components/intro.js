@@ -1,4 +1,4 @@
-import {SubscribeForm} from '../components/form'
+import SubscribeForm from '../components/form'
 
 export default function Intro({form}) {
   if(form === "true") {
@@ -10,8 +10,10 @@ export default function Intro({form}) {
         <h2 className="text-xl lg:text-2xl text-gray-400">
           Devocionais diários para iniciar sua manhã.
         </h2>
-  
-        <SubscribeForm />
+
+        <div className="w-11/12 lg:w-6/12 absolute -bottom-32 lg:-bottom-24">
+          <SubscribeForm bgColor="bg-white" shadow="shadow-sm" padding="py-8 px-6" textSize="text-2xl"/>
+        </div>
       </section>
     )
   }

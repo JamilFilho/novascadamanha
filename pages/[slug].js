@@ -10,6 +10,7 @@ import { getPostBySlug, getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import markdownToHtml from '../lib/markdownToHtml'
 import Meta from '../components/meta'
+import SubscribeForm from '../components/form'
 import Ads from '../components/adsense'
 
 export default function Post({ post }) {
@@ -41,7 +42,12 @@ export default function Post({ post }) {
 
         <Layout>
           <PostBody content={post.content} author={post.author} />
-          <div className="w-10/12 lg:max-w-3xl mx-auto">
+          
+          <div className=" w-10/12 lg:max-w-3xl mx-auto">
+            <SubscribeForm bgColor="bg-gray-100" padding="py-20 px-6" textSize="text-2xl"/>
+          </div>
+
+          <div className="w-10/12 lg:max-w-3xl mx-auto mt-12">
             <PostShare title={post.title} url={post.slug}></PostShare>
           </div>
           <PostComments slug={post.slug} />

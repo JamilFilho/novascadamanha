@@ -1,22 +1,19 @@
-export function SubscribeForm() {
+export default function SubscribeForm({bgColor, shadow, padding, textSize}) {
     return(
-        <div className="absolute -bottom-32 lg:-bottom-20 w-11/12 lg:w-8/12 py-8 px-4 flex flex-col items-center justify-center shadow-sm bg-white rounded-xl">
+        <div className={`w-full flex flex-col items-center justify-center rounded-xl ${bgColor} ${shadow} ${padding}`}>
             <div className="mb-8 text-center">
-                <div className="mb-2 font-bold text-xl text-brand-background">
-                    Assine nossa newsletter diária
+                <div className={`mb-2 font-bold ${textSize} text-brand-background`}>
+                    Devocional no WhatsApp
                 </div>
                 
                 <div className="font-medium text-base text-brand-background">
-                    Todas as manhãs um devocional em seu e-mail para edificar sua fé.
+                    Receba, gratuitamente, nossos devocionais em seu WhatsApp.
                 </div>
             </div>
-            
-            <form className="mb-4 w-10/12 flex flex-col md:flex-row formkit-form" action="https://app.convertkit.com/forms/1993669/subscriptions" method="post" data-sv-form="1993669" data-uid="da4738a4df" data-format="inline" data-version="5">
 
-                <input type="email" placeholder="Seu e-mail" name="email_address" className="w-full md:w-9/12 rounded-md border-gray-300 focus:outline-brand-background" required/>
-
-                <button data-element="submit" className="w-full md:w-3/12 rounded-md p-2 mt-2 lg:mt-0 lg:ml-4 font-bold text-white bg-brand-text">Assinar</button>
-            </form>
+            <a href="https://api.whatsapp.com/send?phone=5516999861874&text=Desejo%20receber%20os%20devocionais%20pelo%20WhatsApp" target="_blanck" title="Cadastrar meu WhatsApp" className="px-4 py-2 rounded text-base text-white bg-green-700">
+                Cadastrar meu WhatsApp
+            </a>
         </div>
     )
 }
