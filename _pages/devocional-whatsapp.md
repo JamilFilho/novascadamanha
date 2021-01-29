@@ -29,6 +29,6 @@ Sim, claro que pode! E é exatamente por esse motivo enviamos nossos devocionais
 
 Por se tratar de uma Lista de Transmissão o WhatsApp apenas lhe entregará as nossas mensagens se você salvar o nosso número em seus contatos. Caso contrário você não receberá nenhuma mensagem que enviarmos.
 
-<p class="pt-20 text-center">
-  <a class="text-xl text-white px-6 py-4 rounded bg-green-500" href="https://api.whatsapp.com/send?phone=5516999861874&text=Desejo%20receber%20os%20devocionais%20pelo%20WhatsApp">Cadastrar WhatsApp</a>
+<p class="pt-32 text-center">
+  <a class="text-xl px-6 py-4 rounded bg-green-500" href="https://api.whatsapp.com/send?phone=5516999861874&text=Desejo%20receber%20os%20devocionais%20pelo%20WhatsApp">Cadastrar WhatsApp</a>
 </p>
