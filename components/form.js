@@ -11,10 +11,11 @@ export function SubscribeForm() {
                 </div>
             </div>
             
-            <form className="mb-4 w-10/12 flex flex-col lg:flex-row" action="https://app.convertkit.com/forms/1993669/subscriptions" class="seva-form formkit-form" method="post" data-sv-form="1993669" data-uid="da4738a4df" data-format="inline" data-version="5">
-                <input type="email" placeholder="Seu e-mail" name="email_address" className="w-full rounded-md border-gray-300 focus:outline-brand-background" required/>
+            <form className="mb-4 w-10/12 flex flex-col md:flex-row formkit-form" action="https://app.convertkit.com/forms/1993669/subscriptions" method="post" data-sv-form="1993669" data-uid="da4738a4df" data-format="inline" data-version="5">
 
-                <button data-element="submit" className="w-full lg:w-3/12 rounded-md p-2 mt-2 lg:mt-0 lg:ml-4 font-bold text-white bg-brand-text">Assinar</button>
+                <input type="email" placeholder="Seu e-mail" name="email_address" className="w-full md:w-9/12 rounded-md border-gray-300 focus:outline-brand-background" required/>
+
+                <button data-element="submit" className="w-full md:w-3/12 rounded-md p-2 mt-2 lg:mt-0 lg:ml-4 font-bold text-white bg-brand-text">Assinar</button>
             </form>
         </div>
     )
