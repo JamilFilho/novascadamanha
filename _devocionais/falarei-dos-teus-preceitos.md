@@ -1,5 +1,5 @@
 ---
-title: 'Falarei dos teus preceitos'
+title: 'Dá-me entendimento'
 excerpt: '"Falarei de teus preceitos a reis, e não me envergonharei" (Salmo 119.46)'
 date: '2020-12-21T08:00Z'
 author:
