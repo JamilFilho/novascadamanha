@@ -35,6 +35,7 @@ export default function Meta({post}) {
         <meta property="twitter:title" content={`${post.title} | Novas de Cada Manhã `} />
         <meta property="twitter:description" content={post.excerpt} />
         <meta property="twitter:image" content={post.ogImage.url} />
+        <script src="/assets/scripts/clarity.js" />
         </>
     )
 }
