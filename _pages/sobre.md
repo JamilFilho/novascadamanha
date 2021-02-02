@@ -1,7 +1,6 @@
 ---
 title: 'Sobre Nós'
 excerpt: 'Conheça um pouco mais sobre o projeto Novas de Cada Manhã'
-date: '2020-12-01'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
