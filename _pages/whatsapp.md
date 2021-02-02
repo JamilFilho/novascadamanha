@@ -1,10 +1,9 @@
 ---
 title: 'Devocional no WhatsApp'
-excerpt: 'Receba, gratuitamente, nossos devocionais diretamente em seu WhatsApp'
-date: '2020-12-01'
-author:
-  name: Jamil Filho
-  picture: '/assets/autores/jamil_filho.jpg'
+excerpt: 'Deseja receber nossos devocionais diários diretamente em seu WhatsApp? Cadastre-se gratuitamente'
+buttonText: 'Cadastrar WhatsApp'
+buttonLink: 'https://api.whatsapp.com/send?phone=5516999861874&text=Desejo%20receber%20os%20devocionais%20pelo%20WhatsApp'
+headerColor: 'green-500'
 ogImage:
   url: '/assets/thumbnails/devocional-whatsapp.png'
 ---
