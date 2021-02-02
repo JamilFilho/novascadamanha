@@ -1,17 +1,13 @@
 ---
 title: 'Dá-me entendimento'
-excerpt: '"Tu me fizeste, tu me formaste; dá-me entendimento para aprender teus mandamentos" (Salmo 119.73)'
-date: '2021-02-01T10:00Z'
+excerpt: '"Que eu seja motivo de alegria para os que te temem, pois em tua palavra depositei minha esperança" (Salmos 119.74)'
+date: '2021-02-02T10:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
 ogImage:
-  url: '/assets/thumbnails/da-me-o-entendimento.png'
+  url: '/assets/thumbnails/que-eu-seja-alegria-para-os-que-te-temem.png'
 ---
-
-[Devocional - #20] "Que seja alegria para os que te temem"
-
-"Que eu seja motivo de alegria para os que te temem, pois em tua palavra depositei minha esperança" (Salmos 119.74)
 
 Até o presente momento o salmista vem declarando e anunciando os benefícios da obediência à palavra e seu amor por ela sempre em uma perspectiva individual. No entanto, inesperadamente ele apresenta um contexto coletivo, daqueles que temem a Deus.
 
