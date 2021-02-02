@@ -4,7 +4,7 @@ import PostBody from '../../components/post-body'
 import Layout from '../../components/layout'
 import Header from '../../components/header'
 import PostHeader from '../../components/post-header'
-import { getPageBySlug, getAllPages } from '../../lib/apiPage'
+import { getPageBySlug, getAllPages } from '../../lib/apiEditorialPage'
 import Head from 'next/head'
 import markdownToHtml from '../../lib/markdownToHtml'
 import Ads from '../../components/adsense'
@@ -21,7 +21,6 @@ export default function Post({ post }) {
 
       <meta name="title" content={`${post.title} | Novas de Cada Manhã `} />
       <meta name="description" content={post.excerpt} />
-
       <meta property="og:url" content={`https://novasdecadamanha.com.br/${post.slug}`} />
       <meta property="og:title" content={`${post.title} | Novas de Cada Manhã `} />
       <meta property="og:description" content={post.excerpt} />
