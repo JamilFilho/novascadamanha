@@ -29,6 +29,12 @@ export default function Header() {
           </Link>
         </li>
 
+        <li className="mx-4">
+          <Link href="/devocional/telegram">
+            <a className="font-medium">Devocional no Telegram</a>
+          </Link>
+        </li>
+
         <li>
           <Link href="/editorial/sobre">
             <a className="font-medium">Sobre</a>
