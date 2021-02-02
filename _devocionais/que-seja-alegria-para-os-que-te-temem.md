@@ -1,5 +1,5 @@
 ---
-title: 'Dá-me entendimento'
+title: 'Que seja alegria para os que te temem'
 excerpt: '"Que eu seja motivo de alegria para os que te temem, pois em tua palavra depositei minha esperança" (Salmos 119.74)'
 date: '2021-02-02T10:00Z'
 author:
