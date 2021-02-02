@@ -8,7 +8,12 @@ module.exports = withPWA({
     return [
       {
         source: '/devocional-whatsapp',
-        destination: '/newsletter/devocional-whatsapp',
+        destination: '/devocional/whatsapp',
+        permanent: true,
+      },
+      {
+        source: '/newsletter/devocional-whatsapp',
+        destination: '/devocional/whatsapp',
         permanent: true,
       },
       {

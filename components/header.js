@@ -19,12 +19,12 @@ export default function Header() {
       <ul className="hidden md:flex md:w-3/4">
         <li className="mx-4">
           <Link href="/devocionais">
-            <a className="font-medium">Devocionais</a>
+            <a className="font-medium">Todos os Devocionais</a>
           </Link>
         </li>
         
         <li className="mx-4">
-          <Link href="/newsletter/devocional-whatsapp">
+          <Link href="/devocional/whatsapp">
             <a className="font-medium">Devocional no WhatsApp</a>
           </Link>
         </li>
