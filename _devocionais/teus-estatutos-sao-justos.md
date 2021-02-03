@@ -15,6 +15,6 @@ Seu coração não se rebela contra o Senhor, mas humildemente reconhece que, um
 
 A maturidade do salmista diante da correção divina e da dor provocada por ela nos serve de exemplo, nos revela um caminho sublime e mais elevado de amadurecimento e crescimento espiritual.
 
-O propósito da correção divina não é outro senão alinhar Seus filhos ao caminho eterno e, neste processo, tal como o salmista podemos ter a certeza de que o amor de Deus estará ausente.
+O propósito da correção divina não é outro senão alinhar Seus filhos ao caminho eterno e, neste processo, tal como o salmista podemos ter a certeza de que o amor de Deus não estará ausente.
 
 Deus lhe abençoe.
