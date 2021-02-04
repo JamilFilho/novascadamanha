@@ -1,17 +1,13 @@
 ---
 title: 'Cerca-me de tua compaixão'
-excerpt: '"Eu sei, ó Senhor, que teus estatutos são justos; tu me disciplinaste por tua fidelidade. Agora, que o teu amor me console, como prometeste a este teu servo" (Salmos 119.75,76)'
-date: '2021-02-03T10:00Z'
+excerpt: '"Cerca-me de tua compaixão, para que eu viva, pois tenho prazer em tua lei" (Salmo 119.77)'
+date: '2021-02-04T10:30Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
 ogImage:
-  url: '/assets/thumbnails/teus-estatutos-sao-justos.png'
+  url: '/assets/thumbnails/cerca-me-da-tua-compaixao.png'
 ---
-
-[Devocional - #22] "Cerca-me de tua compaixão"
-
-"Cerca-me de tua compaixão, para que eu viva, pois tenho prazer em tua lei" (Salmo 119.77)
 
 Consciente de que o amor de Deus lhe está disponível e jamais lhe será negado (v. 76) o salmista então roga para que o Senhor lhe cerque de compaixão, pois somente ela lhe garante a vida.
 
