@@ -28,8 +28,6 @@ export default function Post({ post }) {
       
       <Meta post={post}/>
       <Ads />
-
-      <script src="/assets/scripts/sharer.min.js"></script>
     </Head>
     <Header />
     {router.isFallback ? (

@@ -35,6 +35,9 @@ export default function Meta({post}) {
         <meta property="twitter:description" content={post.excerpt} />
         <meta property="twitter:image" content={post.ogImage.url} />
         <script src="/assets/scripts/clarity.js" />
+        <script src="/assets/scripts/sharer.min.js" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-181514130-1"></script>
+        <script async src="/assets/scripts/analytics.js"></script>
         </>
     )
 }

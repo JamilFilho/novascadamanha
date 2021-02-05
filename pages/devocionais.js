@@ -33,6 +33,8 @@ export default function Index({ allPosts }) {
         <link rel='manifest' href='/manifest.json' />
         <link rel='mask-icon' href='/icons/safari-pinned-tab.svg' color='#282c35' />
         <link rel='shortcut icon' href='/icons/favicon.ico' />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-181514130-1"></script>
+        <script async src="/assets/scripts/analytics.js"></script>
         <Ads/>
       </Head>
 

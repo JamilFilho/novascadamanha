@@ -49,6 +49,8 @@ export default function Index({ allPosts }) {
         <meta property="twitter:image" content="/assets/images/novas-de-cada-manha-devocional-diario.png" />
 
         <script src="/assets/scripts/sharer.min.js"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-181514130-1"></script>
+        <script async src="/assets/scripts/analytics.js"></script>
         <Ads/>
       </Head>
       <Header />
