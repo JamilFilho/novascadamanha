@@ -8,10 +8,12 @@ import fs from 'fs'
 import {generateRss} from '../lib/feed.js'
 import Header from '../components/header'
 import Ads from '../components/adsense'
+import Link from 'next/link'
 
 export default function Index({ allPosts }) {
   const heroPost = allPosts[0]
   const morePosts = allPosts.slice(1, 10)
+  const postLength = allPosts
   return (
     <>
       <Head>
@@ -60,6 +62,11 @@ export default function Index({ allPosts }) {
         )}
       <Layout>          
         {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+        <div className="my-16 flex justify-center items-center">
+          <Link href="/devocionais">
+            <a className="py-4 px-6 rounded-lg text-base text-white bg-brand-background">Ver todos os {postLength.length} devocionais</a>
+          </Link>
+        </div>
       </Layout>
     </>
   )
