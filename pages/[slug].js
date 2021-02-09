@@ -12,6 +12,7 @@ import markdownToHtml from '../lib/markdownToHtml'
 import Meta from '../components/meta'
 import SubscribeForm from '../components/form'
 import Ads from '../components/adsense'
+import Analytics from '../components/analytics'
 
 export default function Post({ post }) {
   const router = useRouter()
@@ -27,6 +28,8 @@ export default function Post({ post }) {
       <meta name="description" content={post.excerpt} />
       
       <Meta post={post}/>
+      
+      <Analytics />
       <Ads />
     </Head>
     <Header />

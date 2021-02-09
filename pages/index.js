@@ -9,6 +9,7 @@ import {generateRss} from '../lib/feed.js'
 import Header from '../components/header'
 import Ads from '../components/adsense'
 import Link from 'next/link'
+import Analytics from '../components/analytics'
 
 export default function Index({ allPosts }) {
   const heroPost = allPosts[0]
@@ -51,8 +52,7 @@ export default function Index({ allPosts }) {
         <meta property="twitter:image" content="/assets/images/novas-de-cada-manha-devocional-diario.png" />
 
         <script src="/assets/scripts/sharer.min.js"></script>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-181514130-1"></script>
-        <script async src="/assets/scripts/analytics.js"></script>
+        <Analytics />
         <Ads/>
       </Head>
       <Header />

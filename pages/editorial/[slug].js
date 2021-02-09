@@ -8,6 +8,7 @@ import { getPageBySlug, getAllPages } from '../../lib/apiEditorialPage'
 import Head from 'next/head'
 import markdownToHtml from '../../lib/markdownToHtml'
 import Ads from '../../components/adsense'
+import Analytics from '../../components/analytics'
 
 export default function Post({ post }) {
   const router = useRouter()
@@ -31,8 +32,7 @@ export default function Post({ post }) {
       <meta property="twitter:title" content={`${post.title} | Novas de Cada Manhã `} />
       <meta property="twitter:description" content={post.excerpt} />
       <meta property="twitter:image" content={post.ogImage.url} />
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-181514130-1"></script>
-      <script async src="/assets/scripts/analytics.js"></script>
+      <Analytics />
       <Ads />
     </Head>
     <Header />
