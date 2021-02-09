@@ -6,7 +6,7 @@ import Head from 'next/head'
 import markdownStyles from '../../components/markdown-styles.module.css'
 import markdownToHtml from '../../lib/markdownToHtml'
 import Ads from '../../components/adsense'
-import Analytics from '../components/analytics'
+import Analytics from '../../components/analytics'
 
 export default function Post({ post }) {
   const router = useRouter()
