@@ -1,3 +1,5 @@
+import useScript from '../components/useScript'
+
 export default function Ads() {
     return(
         <>

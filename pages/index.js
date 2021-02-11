@@ -11,6 +11,7 @@ import Ads from '../components/adsense'
 import Link from 'next/link'
 import Analytics from '../components/analytics'
 
+
 export default function Index({ allPosts }) {
   const heroPost = allPosts[0]
   const morePosts = allPosts.slice(1, 10)
@@ -50,8 +51,6 @@ export default function Index({ allPosts }) {
         <meta property="twitter:title" content="Novas de Cada Manhã" />
         <meta property="twitter:description" content="Devocionais diários para iniciar sua manhã." />
         <meta property="twitter:image" content="/assets/images/novas-de-cada-manha-devocional-diario.png" />
-
-        <script src="/assets/scripts/sharer.min.js"></script>
         <Analytics />
         <Ads/>
       </Head>

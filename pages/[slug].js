@@ -28,7 +28,6 @@ export default function Post({ post }) {
       <meta name="description" content={post.excerpt} />
       
       <Meta post={post}/>
-      
       <Analytics />
       <Ads />
     </Head>

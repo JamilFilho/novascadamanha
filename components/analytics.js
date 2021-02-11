@@ -1,3 +1,4 @@
+import useScript from '../components/useScript'
 const env = process.env.ENVIRONMENT
 
 export default function Analytics() {
@@ -7,11 +8,6 @@ export default function Analytics() {
             </>
         )
     } else {
-        return(
-            <>
-            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-181514130-1"></script>
-            <script async src="/assets/scripts/analytics.js"></script> 
-            </>
-        )
+        return useScript('https://www.googletagmanager.com/gtag/js?id=UA-181514130-1s'), useScript('/assets/scripts/analytics.js'), useScript('/assets/scripts/clarity.js')
     }
 }
