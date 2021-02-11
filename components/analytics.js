@@ -8,6 +8,12 @@ export default function Analytics() {
             </>
         )
     } else {
-        return useScript('https://www.googletagmanager.com/gtag/js?id=UA-181514130-1s'), useScript('/assets/scripts/analytics.js'), useScript('/assets/scripts/clarity.js')
+        useScript('https://www.googletagmanager.com/gtag/js?id=UA-181514130-1s')
+        useScript('/assets/scripts/analytics.js')
+        useScript('/assets/scripts/clarity.js')
+        return(
+            <>
+            </>
+        )
     }
 }
