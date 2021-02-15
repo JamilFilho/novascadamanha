@@ -3,6 +3,7 @@ const withPWA = require('next-pwa')
 module.exports = withPWA({
   env: {
     ENVIRONMENT: process.env.ENVIRONMENT,
+    BASE_URL: process.env.BASE_URL
   },
   pwa: {
     dest: 'public'

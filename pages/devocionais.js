@@ -4,8 +4,6 @@ import Intro from '../components/intro'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
-import fs from 'fs'
-import {generateRss} from '../lib/feed.js'
 import Ads from '../components/adsense'
 import Analytics from '../components/analytics'
 
@@ -57,9 +55,6 @@ export async function getStaticProps() {
     'content',
     'ogImage'
   ])
-  
-  const rss = await generateRss(allPosts)
-  fs.writeFileSync('./public/feed.xml', rss)
 
   return {
     props: { allPosts },
