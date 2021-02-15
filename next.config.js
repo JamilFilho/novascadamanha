@@ -11,6 +11,11 @@ module.exports = withPWA({
   async redirects() {
     return [
       {
+        source: '/amazon',
+        destination: 'https://amzn.to/3tU4Q50',
+        permanent: true,
+      },
+      {
         source: '/devocional-whatsapp',
         destination: '/devocional/whatsapp',
         permanent: true,

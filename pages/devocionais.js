@@ -4,8 +4,8 @@ import Intro from '../components/intro'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
-import Ads from '../components/adsense'
 import Analytics from '../components/analytics'
+import AmazonBanner from '../components/amazon'
 
 export default function Index({ allPosts }) {
   const morePosts = allPosts
@@ -33,14 +33,13 @@ export default function Index({ allPosts }) {
         <link rel='mask-icon' href='/icons/safari-pinned-tab.svg' color='#282c35' />
         <link rel='shortcut icon' href='/icons/favicon.ico' />
         <Analytics />
-        <Ads/>
       </Head>
-
       <Header />
       <Intro form="false"/>
       <Layout>          
         {morePosts.length > 0 && <MoreStories posts={morePosts} feed="true" />}
       </Layout>
+      <AmazonBanner />
     </>
   )
 }

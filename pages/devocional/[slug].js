@@ -5,7 +5,6 @@ import { getPageBySlug, getAllPages } from '../../lib/apiNewsletterPage.js'
 import Head from 'next/head'
 import markdownStyles from '../../components/markdown-styles.module.css'
 import markdownToHtml from '../../lib/markdownToHtml'
-import Ads from '../../components/adsense'
 import Analytics from '../../components/analytics'
 
 export default function Post({ post }) {
@@ -35,7 +34,6 @@ export default function Post({ post }) {
       <meta property="twitter:image" content={post.ogImage.url} />
       
       <Analytics />
-      <Ads />
     </Head>
 
     <Header />

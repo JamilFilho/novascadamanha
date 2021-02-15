@@ -7,8 +7,8 @@ import PostHeader from '../../components/post-header'
 import { getPageBySlug, getAllPages } from '../../lib/apiEditorialPage'
 import Head from 'next/head'
 import markdownToHtml from '../../lib/markdownToHtml'
-import Ads from '../../components/adsense'
 import Analytics from '../../components/analytics'
+import AmazonBanner from '../../components/amazon'
 
 export default function Post({ post }) {
   const router = useRouter()
@@ -33,7 +33,6 @@ export default function Post({ post }) {
       <meta property="twitter:description" content={post.excerpt} />
       <meta property="twitter:image" content={post.ogImage.url} />
       <Analytics />
-      <Ads />
     </Head>
     <Header />
     {router.isFallback ? (
@@ -45,6 +44,7 @@ export default function Post({ post }) {
 
         <Layout>
           <PostBody content={post.content} author={post.author} />
+          <AmazonBanner />
         </Layout>
 
       </article>

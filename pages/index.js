@@ -6,7 +6,7 @@ import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import generateRssFeed from '../lib/feed.js'
 import Header from '../components/header'
-import Ads from '../components/adsense'
+import AmazonBanner from '../components/amazon'
 import Link from 'next/link'
 import Analytics from '../components/analytics'
 
@@ -51,14 +51,14 @@ export default function Index({ allPosts }) {
         <meta property="twitter:description" content="Devocionais diários para iniciar sua manhã." />
         <meta property="twitter:image" content="/assets/images/novas-de-cada-manha-devocional-diario.png" />
         <Analytics />
-        <Ads/>
       </Head>
       <Header />
       <Intro form="true"/>
         {heroPost && (
           <HeroPost title={heroPost.title} author={heroPost.author} slug={heroPost.slug} excerpt={heroPost.excerpt} />
         )}
-      <Layout>          
+      <Layout>
+        <AmazonBanner />      
         {morePosts.length > 0 && <MoreStories posts={morePosts} />}
         <div className="my-16 flex justify-center items-center">
           <Link href="/devocionais">
