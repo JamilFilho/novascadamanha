@@ -14,6 +14,6 @@ ogImage:
 
 Não, o Novas de Cada Manhã no Telegram é apenas um canal de transmissão.
 
-**2. Posso compartilhar os devocionais com meus contatos do WhatsApp?**
+**2. Posso compartilhar os devocionais com meus contatos?**
 
 Sim, claro que pode! E é exatamente por esse motivo enviamos nossos devocionais pelo Telegram: para que você possa compartilhar com todos os seus amigos.
