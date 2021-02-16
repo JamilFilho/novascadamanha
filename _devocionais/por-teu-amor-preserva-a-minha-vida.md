@@ -1,6 +1,6 @@
 ---
-title: 'Não abandonei tuas ordens'
-excerpt: 'Por teu amor, preserva minha vida'
+title: 'Por teu amor, preserva a minha vida'
+excerpt: '"Por teu amor, preserva minha vida; então continuarei a obedecer a teus preceitos" (Salmo 119.88)'
 date: '2021-02-16T10:30Z'
 author:
   name: Jamil Filho
