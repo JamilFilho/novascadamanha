@@ -11,7 +11,6 @@ import Head from 'next/head'
 import markdownToHtml from '../lib/markdownToHtml'
 import Meta from '../components/meta'
 import SubscribeForm from '../components/form'
-import Analytics from '../components/analytics'
 import AmazonBanner from '../components/amazon'
 
 export default function Post({ post }) {
@@ -28,7 +27,6 @@ export default function Post({ post }) {
       <meta name="description" content={post.excerpt} />
       
       <Meta post={post}/>
-      <Analytics />
     </Head>
     <Header />
     {router.isFallback ? (

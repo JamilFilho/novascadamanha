@@ -8,8 +8,7 @@ import generateRssFeed from '../lib/feed.js'
 import Header from '../components/header'
 import AmazonBanner from '../components/amazon'
 import Link from 'next/link'
-import Analytics from '../components/analytics'
-
+import PodcastBanner from '../components/podcastBanner'
 
 export default function Index({ allPosts }) {
   const heroPost = allPosts[0]
@@ -50,7 +49,6 @@ export default function Index({ allPosts }) {
         <meta property="twitter:title" content="Novas de Cada Manhã" />
         <meta property="twitter:description" content="Devocionais diários para iniciar sua manhã." />
         <meta property="twitter:image" content="/assets/images/novas-de-cada-manha-devocional-diario.png" />
-        <Analytics />
       </Head>
       <Header />
       <Intro form="true"/>
@@ -65,6 +63,7 @@ export default function Index({ allPosts }) {
             <a className="py-4 px-6 rounded-lg text-base text-white bg-brand-background">Ver todos os {postLength.length} devocionais</a>
           </Link>
         </div>
+        <PodcastBanner />
       </Layout>
     </>
   )

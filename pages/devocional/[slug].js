@@ -5,7 +5,6 @@ import { getPageBySlug, getAllPages } from '../../lib/apiNewsletterPage.js'
 import Head from 'next/head'
 import markdownStyles from '../../components/markdown-styles.module.css'
 import markdownToHtml from '../../lib/markdownToHtml'
-import Analytics from '../../components/analytics'
 
 export default function Post({ post }) {
   const router = useRouter()
@@ -32,8 +31,6 @@ export default function Post({ post }) {
       <meta property="twitter:title" content={`${post.title} | Novas de Cada Manhã `} />
       <meta property="twitter:description" content={post.excerpt} />
       <meta property="twitter:image" content={post.ogImage.url} />
-      
-      <Analytics />
     </Head>
 
     <Header />
@@ -42,7 +39,7 @@ export default function Post({ post }) {
         <article className="flex flex-col lg:flex-row">
           <div className={`h-screen lg:h-screen lg:fixed lg:left-0 lg:top-0 lg:w-1/2 pt-20 flex flex-col items-center justify-center bg-${post.headerColor}`}>
             <p className="px-4 text-xl text-center font-medium text-white mb-8">{post.excerpt}</p>
-            <a class={`text-xl px-6 py-4 rounded text-${post.headerColor} bg-white`} href={post.buttonLink} target="_blanck">
+            <a className={`text-xl px-6 py-4 rounded text-${post.headerColor} bg-white`} href={post.buttonLink} target="_blanck">
               {post.buttonText}
             </a>
           </div>

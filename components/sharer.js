@@ -3,7 +3,6 @@ import useScript from '../components/useScript'
 
 export default function PostShare({title, url}) {
     useScript('/assets/scripts/sharer.min.js')
-
     return(
         <section className="grid grid-cols-3 gap-4 lg:mt-10">
 

@@ -4,7 +4,6 @@ import Intro from '../components/intro'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
-import Analytics from '../components/analytics'
 import AmazonBanner from '../components/amazon'
 
 export default function Index({ allPosts }) {
@@ -32,7 +31,6 @@ export default function Index({ allPosts }) {
         <link rel='manifest' href='/manifest.json' />
         <link rel='mask-icon' href='/icons/safari-pinned-tab.svg' color='#282c35' />
         <link rel='shortcut icon' href='/icons/favicon.ico' />
-        <Analytics />
       </Head>
       <Header />
       <Intro form="false"/>

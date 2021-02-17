@@ -7,7 +7,6 @@ import PostHeader from '../../components/post-header'
 import { getPageBySlug, getAllPages } from '../../lib/apiEditorialPage'
 import Head from 'next/head'
 import markdownToHtml from '../../lib/markdownToHtml'
-import Analytics from '../../components/analytics'
 import AmazonBanner from '../../components/amazon'
 
 export default function Post({ post }) {
@@ -32,7 +31,6 @@ export default function Post({ post }) {
       <meta property="twitter:title" content={`${post.title} | Novas de Cada Manhã `} />
       <meta property="twitter:description" content={post.excerpt} />
       <meta property="twitter:image" content={post.ogImage.url} />
-      <Analytics />
     </Head>
     <Header />
     {router.isFallback ? (
