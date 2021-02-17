@@ -9,6 +9,8 @@ ogImage:
   url: '/assets/thumbnails/a-felicidade-plena.png'
 ---
 
+<iframe src="https://anchor.fm/novas-de-cada-manh/embed/episodes/Devocional-01---A-Felicidade-Plena-eqhn7f/a-a4ls30m" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+
 O salmista chama de felizes todos aqueles que trilham seus caminhos em retidão e cujos pés não se desviam da Lei do Senhor.
 
 É dela que provém nossa bem-aventurança, é nela que encontramos a fonte da vida e o padrão de retidão. Não são nossos próprios caminhos que são retos, não é a nossa própria capacidade que nos conduz ao Senhor ou que nos torna íntegros.
