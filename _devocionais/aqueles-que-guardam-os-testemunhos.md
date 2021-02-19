@@ -9,9 +9,11 @@ ogImage:
   url: '/assets/thumbnails/aqueles-que-guardam-os-testemunhos.png'
 ---
 
+<iframe src="https://anchor.fm/novasdecadamanha/embed/episodes/Devocional-02---Aqueles-que-guardam-os-testemunhos-eqlfg8/a-a4mkh37" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+
 Felizes são aqueles que guardam os testemunhos divinos e buscam a face de Deus de todo o coração.
 
-Tal felicidade que não está firmada em nenhuma circunstância, nenhuma pessoa ou posses neste mundo, a felicidade plena do cristão está firmada em Deus e lhe está disponível através da Palavra.
+Tal felicidade não está firmada em nenhuma circunstância, nenhuma pessoa ou posses neste mundo, a felicidade plena do cristão está firmada em Deus e lhe está disponível através da Palavra.
 
 Diante da afirmação do primeiro verso e dos versos seguintes (v. 2,3) você poderia questionar qual o fundamento desta felicidade.
 
@@ -21,4 +23,8 @@ A realidade do sofrimento não estava sendo ignorada pelo salmista, no entanto, 
 
 Sua felicidade não depende da circunstância, mas do próprio Deus, sua alegria não é momentânea, mas habita na Eternidade.
 
-Estes que obedecem aos mandamentos de Senhor, seguem Suas Leis e fogem da iniquidade são bem-aventurados, pois um dia seus olhos verão ao Rei da Glória e nEle, eternamente, se regozijarão.
+Estes que obedecem aos mandamentos do Senhor, que seguem Suas Leis e fogem da iniquidade são bem-aventurados, pois um dia seus olhos verão ao Rei da Glória e nEle, eternamente, se regozijarão.
+
+Que a certeza da felicidade plena em Deus conforte seu coração e lhe auxilie durante este dia.
+
+Deus lhe abençoe.
