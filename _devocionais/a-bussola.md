@@ -1,7 +1,7 @@
 ---
-title: 'A Bússola'
+title: 'Tua palavra me dá vida'
 excerpt: '“Desvia de mim o caminho da falsidade e concede-me piedosamente a tua lei” – Salmo 119.29'
-date: '2020-12-01T08:00Z'
+date: '2021-02-22T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
