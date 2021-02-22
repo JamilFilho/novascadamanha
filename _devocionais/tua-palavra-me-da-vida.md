@@ -9,6 +9,8 @@ ogImage:
   url: '/assets/thumbnails/tua-palavra-me-da-vida.png'
 ---
 
+<iframe src="https://anchor.fm/novasdecadamanha/embed/episodes/Devocional-81---Tua-palavra-me-d-vida-eqosgo" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+
 Reconhecendo que pela palavra seu espírito é vivificado e que somente nela há o caminho para a verdadeira vida, o salmista declara sua fidelidade aos mandamentos eternos. 
 
 Enquanto os homens ímpios buscam o sentido da vida em prazeres passageiros, o salmista compreende que é na obediência aos mandamentos do Senhor que está a verdadeira vida. 
