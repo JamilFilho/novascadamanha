@@ -9,7 +9,7 @@ ogImage:
   url: '/assets/thumbnails/tenho-mais-prudencia-que-meus-mestres.png' 
 ---
 
-<iframe src="https://anchor.fm/novasdecadamanha/embed/episodes/Devocional-86---Tenho-mais-prudncia-que-meus-mestres-er9536" height="100%" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/novasdecadamanha/embed/episodes/Devocional-86---Tenho-mais-prudncia-que-meus-mestres-er9536" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Por meditar constantemente nas Escrituras o salmista não apenas se tornou mais sábio do que seus inimigos (v. 98), como também superou seus próprios mestres e anciãos em entendimento e prudência. 
 
