@@ -11,8 +11,6 @@ ogImage:
 
 <iframe src="https://anchor.fm/novasdecadamanha/embed/episodes/Devocional-98---No-permita-que-minha-esperana-seja-frustrada-esqee7" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
-[Devocional #51] “Não permitas que minha esperança seja frustrada”
-
 Ciente de sua pequenez frente às adversidades e provações da vida, e da necessidade de auxílio divino para permanecer com os olhos fitos na eternidade, o salmista clama ao Senhor para que não retire sua mão, mas permaneça sustentando sua alma.
 
 O alvo do clamor apresentado pelo salmista ao Senhor não é simplesmente voltado para o anseio de que sua vida seja poupada das adversidades, ou que sua alma seja reconfortada diante das angústias do mundo, mas para que sua esperança permaneça firme e seu coração continue meditando nos preceitos divinos.

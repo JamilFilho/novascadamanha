@@ -1,5 +1,5 @@
 ---
-title: 'Obediência à palavra'
+'title: 'Obediência à palavra'
 excerpt: '“Tu ordenaste os teus mandamentos, para que diligentemente os observássemos” – Salmos 119.4'
 date: '2020-10-28T08:00Z'
 author:
