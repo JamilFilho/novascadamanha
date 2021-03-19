@@ -1,7 +1,7 @@
 ---
 'title: 'Tenho temor reverente por teus estatutos'
 excerpt: '“Rejeitaste, porém, todos que se afastam de teus decretos, os que só enganam a si mesmos. Removes os ímpios da terra como coisa desprezível; por isso, amo teus preceitos. Estremeço de medo de ti; tenho temor reverente por teus estatutos” – Salmos 119:118-120'
-date: '2020-10-28T08:00Z'
+date: '2021-03-18T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
@@ -17,7 +17,7 @@ Ele não está lidando com qualquer escrito, não se trata simplesmente de mais 
 
 A mente humana carnal, diante da declaração de rejeição divina aos que desobedecem a lei do Senhor e da profunda afirmação de que os ímpios serão removidos da terra, se inclina em rebeldia a Deus, pois ela anseia projetar nEle uma imagem de um deus fraco, incapaz de se irar ou que não tem o direito de exercer juízo sobre a “liberdade humana” de agir como seu coração deseja.
 
-Não permita que o pensamento carnal deste século direcione sua mente a crer que Deus não tem o direito de julgar aos homens ou ainda que Ele nos deve alguma coisa.
+Não permita que o pensamento carnal deste século direcione sua mente a crer que Deus não tem o direito de julgar aos homens ou ainda que Ele nos deve alguma coisa. 
 
 Pelo contrário, assim como o salmista, somos chamados pelo Santo Espírito a nos curvar em temor e reverência diante dAquele que criou todas as coisas e que possuí todo o direito sobre Sua criação.
 
