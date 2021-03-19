@@ -1,7 +1,7 @@
 ---
 title: 'Não me entregues a meus inimigos'
 excerpt: '“Não me entregues a meus inimigos, pois tenho feito o que é justo e certo” – Salmos 119:121'
-date: '2020-10-19T08:00Z'
+date: '2021-10-19T08:00Z'
 author:
   name: Jamil Filho
   picture: '/assets/autores/jamil_filho.jpg'
