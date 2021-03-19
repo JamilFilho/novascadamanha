@@ -1,5 +1,5 @@
 ---
-'title: 'Tenho temor reverente por teus estatutos'
+title: 'Tenho temor reverente por teus estatutos'
 excerpt: '“Rejeitaste, porém, todos que se afastam de teus decretos, os que só enganam a si mesmos. Removes os ímpios da terra como coisa desprezível; por isso, amo teus preceitos. Estremeço de medo de ti; tenho temor reverente por teus estatutos” – Salmos 119:118-120'
 date: '2021-03-18T08:00Z'
 author:

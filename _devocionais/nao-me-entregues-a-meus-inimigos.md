@@ -1,5 +1,5 @@
 ---
-'title: 'Não me entregues a meus inimigos'
+title: 'Não me entregues a meus inimigos'
 excerpt: '“Não me entregues a meus inimigos, pois tenho feito o que é justo e certo” – Salmos 119:121'
 date: '2020-10-19T08:00Z'
 author:
